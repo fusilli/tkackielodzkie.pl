@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{% if page.url != "/" %}{{ title }} – {% endif %}Tkackie Łódzkie</title>
+  <link rel="stylesheet" href="/main.css">
+  <script type="text/javascript" src="/main.js" defer></script>
+</head>
+<body>
+  <header>
+    {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
+    <{{ h1or2 }} class="text-5xl font-bold text-center"><a href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
+  </header>
+  <nav>
+    <ul>
+    {% for item in menu %}
+      {% set active = page.url.startsWith(item.url) %}
+      <li class="inline{{ " font-bold" if active }}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+  <main>
+    {% if page.url != "/" %}<h1 class="text-4xl font-bold">{{ title }}</h1>{% endif %}
+    {{ content | safe }}
+  </main>
+</body>
+</html>
