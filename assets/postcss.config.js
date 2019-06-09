@@ -1,6 +1,6 @@
 module.exports = {
 	plugins: [
-		require("tailwindcss"),
+		require("tailwindcss")("./assets/tailwind/tailwind.config.js"),
 		require("autoprefixer")({
 			grid: false,
 			browsers: [">1%"]
