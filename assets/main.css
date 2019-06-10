@@ -1,6 +1,35 @@
 @tailwind base;
 /* CUSTOM BASE STYLES  */
-
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/public-sans/PublicSans-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/public-sans/PublicSans-Italic.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/public-sans/PublicSans-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/public-sans/PublicSans-BoldItalic.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts/public-sans/PublicSans-Black.woff2) format("woff2");
+}
 /* END CUSTOM BASE STYLES  */
 @tailwind components;
 /* CUSTOM COMPONENTS  */
@@ -14,16 +43,14 @@
 /* CUSTOM STYLES  */
 /* purgecss start ignore */
 .site-title {
-  font-size: 13vw;
-  background: repeating-linear-gradient(to top,  #e82d0a 0% ,#e82d0a 2% ,#df3b7a 2% ,#df3b7a 6% ,#e82d0a 6% ,#e82d0a 10% ,#df3b7a 10% ,#df3b7a 15% ,#63092c 15% ,#63092c 19% ,#120b12 19% ,#120b12 24% ,#005b40 24% ,#005b40 40% ,#218d41 40% ,#218d41 42% ,#005b40 42% ,#005b40 44% ,#218d41 44% ,#218d41 49% ,#63092c 49% ,#63092c 55% ,#e82d0a 55% ,#e82d0a 98% ,#df3b7a 98% ,#df3b7a 100%);
+  font-weight: 900;
+  font-size: 12vw;
+  background: repeating-linear-gradient(to top, #e82d0a 0% ,#e82d0a 22% ,#df3b7a 22% ,#df3b7a 26% ,#63092c 26% ,#63092c 30% ,#120b12 30% ,#120b12 34% ,#005b40 34% ,#005b40 45% ,#218d41 45% ,#218d41 46% ,#005b40 46% ,#005b40 47% ,#218d41 47% ,#218d41 51% ,#63092c 51% ,#63092c 55% ,#e82d0a 55% ,#e82d0a 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
-}
-.container {
-  background-color: rgba(255,255,255,.9);
 }
 /* purgecss end ignore */
 /* END CUSTOM STYLES  */

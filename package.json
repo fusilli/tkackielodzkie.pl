@@ -8,8 +8,8 @@
     "build": "run-s clean build:parcel build:eleventy",
     "start": "run-p dev:parcel dev:eleventy",
     "dev:eleventy": "NODE_ENV=development npx eleventy --serve",
-    "dev:parcel": "NODE_ENV=development parcel watch ./assets/main.js --out-dir _site --no-source-maps",
-    "build:parcel": "NODE_ENV=production parcel build ./assets/main.js --out-dir _site --experimental-scope-hoisting --no-cache --no-source-maps",
+    "dev:parcel": "NODE_ENV=development parcel watch ./assets/main.js --out-dir _site/assets --public-url /assets/ --no-source-maps",
+    "build:parcel": "NODE_ENV=production parcel build ./assets/main.js --out-dir _site/assets --public-url /assets/ --experimental-scope-hoisting --no-cache --no-source-maps",
     "build:eleventy": "NODE_ENV=production npx eleventy"
   },
   "author": "fusil.li",

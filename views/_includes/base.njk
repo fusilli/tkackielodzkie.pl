@@ -5,21 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{% if page.url != "/" %}{{ title }} – {% endif %}Tkackie Łódzkie</title>
-  <link rel="stylesheet" href="/main.css">
-  <script type="text/javascript" src="/main.js" defer></script>
+  <link rel="stylesheet" href="/assets/main.css">
+  <script type="text/javascript" src="/assets/main.js" defer></script>
 </head>
-<body class="bg-gray-200">
+<body class="font-sans bg-gray-200">
   <header>
     {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
-    <{{ h1or2 }} class="site-title text-center font-bold leading-tight"><a class="lowicki inline-block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
+    <{{ h1or2 }} class="text-center leading-tight"><a class="site-title leading-tight block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
   </header>
-  <nav class="bg-pomaranczowy text-white text-center">
+  <nav class="bg-pomaranczowy text-lg text-white text-center">
     <ul>
-      {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}<li class="inline"><a href="{{ item.url }}" class="{{ "font-bold bg-brazowy " if active }}inline-block py-2 px-4">{{ item.title }}</a></li>{% endfor %}
+      {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}<li class="inline"><a href="{{ item.url }}" class="{{ "bg-brazowy " if active }}font-bold inline-block py-2 px-4">{{ item.title }}</a></li>{% endfor %}
     </ul>
   </nav>
-  <main>
-    {% if page.url != "/" %}<h1 class="text-4xl font-bold">{{ title }}</h1>{% endif %}
+  <main class="text-lg container my-20">
+    {% if page.url != "/" %}<h1 class="text-5xl font-bold">{{ title }}</h1>{% endif %}
     {{ content | safe }}
   </main>
 </body>
