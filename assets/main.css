@@ -1,34 +1,67 @@
 @tailwind base;
 /* CUSTOM BASE STYLES  */
 @font-face {
-  font-family: 'Public Sans';
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 400;
-  src: url(/fonts/public-sans/PublicSans-Regular.woff2) format("woff2");
+  src: url(/fonts/alegreya/Alegreya-Regular.woff) format("woff");
 }
 @font-face {
-  font-family: 'Public Sans';
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/alegreya/Alegreya-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: italic;
   font-weight: 400;
-  src: url(/fonts/public-sans/PublicSans-Italic.woff2) format("woff2");
+  src: url(/fonts/alegreya/Alegreya-Italic.woff) format("woff");
 }
 @font-face {
-  font-family: 'Public Sans';
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/alegreya/Alegreya-Italic.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 700;
-  src: url(/fonts/public-sans/PublicSans-Bold.woff2) format("woff2");
+  src: url(/fonts/alegreya/Alegreya-Bold.woff) format("woff");
 }
 @font-face {
-  font-family: 'Public Sans';
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts/alegreya/Alegreya-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: italic;
   font-weight: 700;
-  src: url(/fonts/public-sans/PublicSans-BoldItalic.woff2) format("woff2");
+  src: url(/fonts/alegreya/Alegreya-BoldItalic.woff) format("woff");
 }
 @font-face {
-  font-family: 'Public Sans';
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/alegreya/Alegreya-BoldItalic.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 900;
-  src: url(/fonts/public-sans/PublicSans-Black.woff2) format("woff2");
+  src: url(/fonts/alegreya/Alegreya-Black.woff) format("woff");
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts/alegreya/Alegreya-Black.woff2) format("woff2");
+}
+p {
+  margin: 1.5em 0;
 }
 /* END CUSTOM BASE STYLES  */
 @tailwind components;
@@ -44,13 +77,47 @@
 /* purgecss start ignore */
 .site-title {
   font-weight: 900;
-  font-size: 12vw;
+  font-size: 13vw;
   background: repeating-linear-gradient(to top, #e82d0a 0% ,#e82d0a 22% ,#df3b7a 22% ,#df3b7a 26% ,#63092c 26% ,#63092c 30% ,#120b12 30% ,#120b12 34% ,#005b40 34% ,#005b40 45% ,#218d41 45% ,#218d41 46% ,#005b40 46% ,#005b40 47% ,#218d41 47% ,#218d41 51% ,#63092c 51% ,#63092c 55% ,#e82d0a 55% ,#e82d0a 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
+}
+.menu-item:not(:last-child)::after {
+  content: " #";
+  color: #000;
+  margin: 0 .25em;
+  color: theme('colors.pomaranczowy');
+}
+.menu-item a {
+  position: relative;
+}
+
+.menu-item a::before {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  right: 0;
+  height: .25em;
+  background-color: theme('colors.rozowy');
+  transform-origin: bottom right;
+  transform: scaleX(0);
+  transition: transform 0.5s ease;
+  z-index: -1;
+}
+/* .menu-item:nth-child(5n+2) a::before { background-color: theme('colors.brazowy');}
+.menu-item:nth-child(5n+3) a::before { background-color: theme('colors.czarny');}
+.menu-item:nth-child(5n+4) a::before { background-color: theme('colors.zielony');}
+.menu-item:nth-child(5n+5) a::before { background-color: theme('colors.jasnozielony');} */
+.menu-item a:hover::before,
+.menu-item a:focus::before,
+.menu-item a.active::before {
+  transform-origin: bottom left;
+  transform: scaleX(1);
+}
+.len {
+  mix-blend-mode: multiply;
 }
 /* purgecss end ignore */
 /* END CUSTOM STYLES  */

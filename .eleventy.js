@@ -8,6 +8,15 @@ module.exports = function(eleventyConfig) {
 
   const cacheBusterOptions = { outputDirectory: "_site" };
   eleventyConfig.setLibrary("md", markdownLib);
+  eleventyConfig.addPassthroughCopy("assets/img");
+
+  eleventyConfig.addFilter("cudzyslowy", str => {
+    return str.replace(/([\s][\(]?)(&quot;)([\S])/g, "\$1&bdquo;\$3").replace(/([\S])(&quot;)([\)]?[\s])/g, "\$1&rdquo;\$3");
+  });
+
+  eleventyConfig.addFilter("sierotki", str => {
+    return str.replace(/([ ](<em>)?(<strong>)?[\(]?[„]?[a|i|o|u|w|z])([ ])/gi, "\$1&nbsp;");
+  });
 
   if ( process.env.NODE_ENV !== "development" ) {
     eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
@@ -27,6 +36,7 @@ module.exports = function(eleventyConfig) {
   return {
     dir: {
       input: "views"
-    }
+    },
+    passthroughFileCopy: true
   };
 };

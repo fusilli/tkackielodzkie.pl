@@ -8,19 +8,21 @@
   <link rel="stylesheet" href="/assets/main.css">
   <script type="text/javascript" src="/assets/main.js" defer></script>
 </head>
-<body class="font-sans bg-gray-200">
-  <header>
+<body class="font-serif bg-gray-200 text-gray-900">
+  <header class="my-4">
     {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
     <{{ h1or2 }} class="text-center leading-tight"><a class="site-title leading-tight block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
   </header>
-  <nav class="bg-pomaranczowy text-lg text-white text-center">
+  <nav class="text-center lg:text-lg xl:text-xl px-4">
     <ul>
-      {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}<li class="inline"><a href="{{ item.url }}" class="{{ "bg-brazowy " if active }}font-bold inline-block py-2 px-4">{{ item.title }}</a></li>{% endfor %}
+      {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}
+      <li class="menu-item inline"><a href="{{ item.url }}" class="{{ "active " if active }} font-bold leading-loose tracking-wider uppercase outline-none">{{ item.title | safe }}</a></li>
+      {% endfor %}
     </ul>
   </nav>
-  <main class="text-lg container my-20">
-    {% if page.url != "/" %}<h1 class="text-5xl font-bold">{{ title }}</h1>{% endif %}
-    {{ content | safe }}
+  <main class="text-2xl container max-w-4xl my-32">
+    {% if page.url != "/" %}<h1 class="text-6xl uppercase font-bold mb-12">{{ title }}</h1>{% endif %}
+    {{ content | cudzyslowy | sierotki | safe }}
   </main>
 </body>
 </html>

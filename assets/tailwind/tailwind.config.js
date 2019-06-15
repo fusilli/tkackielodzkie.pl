@@ -4,20 +4,13 @@ module.exports = {
       center: true,
     },
     fontFamily: {
-      sans: [
-        '"Public Sans"',
-        '-apple-system',
-        'BlinkMacSystemFont',
-        '"Segoe UI"',
-        'Roboto',
-        '"Helvetica Neue"',
-        'Arial',
-        '"Noto Sans"',
-        'sans-serif',
-        '"Apple Color Emoji"',
-        '"Segoe UI Emoji"',
-        '"Segoe UI Symbol"',
-        '"Noto Color Emoji"',
+      serif: [
+        'Alegreya',
+        'Georgia',
+        'Cambria',
+        '"Times New Roman"',
+        'Times',
+        'serif'
       ]
     },
     extend: {
@@ -25,6 +18,9 @@ module.exports = {
         'pomaranczowy': '#e82d0a',
         'rozowy': '#df3b7a',
         'brazowy': '#63092c',
+        'czarny': '#120b12',
+        'zielony': '#005b40',
+        'jasnozielony': '#218d41'
       }
     }
   }

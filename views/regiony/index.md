@@ -4,7 +4,7 @@ title: Regiony
 ---
 
 - [łowickie](/regiony/lowickie)
-- [łęczycko-sieradzkie](/regiony/leczycko-sieradzkie)
-- [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie)
+- [łęczyckie](/regiony/leczyckie)
+- [opoczyńskie](/regiony/opoczynskie)
 - [wieluńskie](/regiony/wielunskie)
 - [piotrkowskie](/regiony/piotrkowskie)

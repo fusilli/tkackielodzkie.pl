@@ -1,8 +1,11 @@
 import "./main.css";
-import PublicSansRegular from './fonts/public-sans/PublicSans-Regular.woff2';
-import PublicSansItalic from './fonts/public-sans/PublicSans-Italic.woff2';
-import PublicSansBold from './fonts/public-sans/PublicSans-Bold.woff2';
-import PublicSansBoldItalic from './fonts/public-sans/PublicSans-BoldItalic.woff2';
-import PublicSansBlack from './fonts/public-sans/PublicSans-Black.woff2';
-
-console.log('Działa to?');
+import AlegreyaRegular from './fonts/alegreya/Alegreya-Regular.woff';
+import AlegreyaItalic from './fonts/alegreya/Alegreya-Italic.woff';
+import AlegreyaBold from './fonts/alegreya/Alegreya-Bold.woff';
+import AlegreyaBoldItalic from './fonts/alegreya/Alegreya-BoldItalic.woff';
+import AlegreyaBlack from './fonts/alegreya/Alegreya-Black.woff';
+import AlegreyaRegular2 from './fonts/alegreya/Alegreya-Regular.woff2';
+import AlegreyaItalic2 from './fonts/alegreya/Alegreya-Italic.woff2';
+import AlegreyaBold2 from './fonts/alegreya/Alegreya-Bold.woff2';
+import AlegreyaBoldItalic2 from './fonts/alegreya/Alegreya-BoldItalic.woff2';
+import AlegreyaBlack2 from './fonts/alegreya/Alegreya-Black.woff2';
