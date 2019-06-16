@@ -1,9 +1,9 @@
 module.exports = {
 	plugins: [
-		require("tailwindcss")("./assets/tailwind/tailwind.config.js"),
+		require("tailwindcss")("./assets/tailwind.config.js"),
+		require('postcss-nested'),
 		require("autoprefixer")({
-			grid: false,
-			browsers: [">1%"]
+			grid: false
 		}),
 		...(process.env.NODE_ENV !== "development"
 			? [

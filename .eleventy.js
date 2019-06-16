@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
   const cacheBuster = require('@mightyplow/eleventy-plugin-cache-buster');
 
   const cacheBusterOptions = { outputDirectory: "_site" };
+
   eleventyConfig.setLibrary("md", markdownLib);
   eleventyConfig.addPassthroughCopy("assets/img");
 
@@ -16,6 +17,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("sierotki", str => {
     return str.replace(/([ ](<em>)?(<strong>)?[\(]?[„]?[a|i|o|u|w|z])([ ])/gi, "\$1&nbsp;");
+  });
+
+  eleventyConfig.addShortcode("rok", () => {
+    return `${new Date().getUTCFullYear()}`;
   });
 
   if ( process.env.NODE_ENV !== "development" ) {

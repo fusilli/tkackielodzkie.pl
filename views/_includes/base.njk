@@ -9,9 +9,10 @@
   <script type="text/javascript" src="/assets/main.js" defer></script>
 </head>
 <body class="font-serif bg-gray-200 text-gray-900">
-  <header class="my-4">
+  <div class="wzorek h-6"></div>
+  <header class="pt-16 pb-8">
     {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
-    <{{ h1or2 }} class="text-center leading-tight"><a class="site-title leading-tight block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
+    <{{ h1or2 }} class="text-center"><a class="site-title outline-none leading-none block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
   </header>
   <nav class="text-center lg:text-lg xl:text-xl px-4">
     <ul>
@@ -20,9 +21,14 @@
       {% endfor %}
     </ul>
   </nav>
-  <main class="text-2xl container max-w-4xl my-32">
-    {% if page.url != "/" %}<h1 class="text-6xl uppercase font-bold mb-12">{{ title }}</h1>{% endif %}
-    {{ content | cudzyslowy | sierotki | safe }}
+  <div class="wzorek mt-16 py-32">
+  <main class="text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
+    {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
+    <div class="px-16">
+      {{ content | cudzyslowy | sierotki | safe }}
+    </div>
   </main>
+  </div>
+  <footer class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover:border-pomaranczowy focus:border-pomaranczowy">Regio Centrum</a></footer>
 </body>
 </html>

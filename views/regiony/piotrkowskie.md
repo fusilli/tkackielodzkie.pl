@@ -2,32 +2,24 @@
 layout: base
 title: piotrkowskie
 ---
-Ze względu na bliskość geograficzną i zbliżoną kulturę ludową, w literaturze etnograficznej zwykło się traktować rawskie i opoczyńskie jako jeden region (rawsko-opoczyński). Stroje ludowe z okolic Rawy Mazowieckiej i Opoczna wykazują wiele cech wspólnych w zakresie rozwiązań estetycznych i stosowanych technik tkackich.
+W XX wieku zasięg etnograficzny tkaniny i stroju piotrkowskiego wyznaczały na północy Tuszyn i Kurowice, na wschodzie rzeka Pilica, zaś na południu i zachodzie miejscowości Głupice, Zawady, Poraj i Ręczno [[5][bibliografia]]. Najszybciej zaginął strój męski. Strój kobiecy przetrwał w nielicznych parafiach (Czarnocin, Wolbórz) do naszych czasów i bywa zakładany przez kobiety na ważniejsze uroczystości kościelne, jednak dziś bardziej przypomina stroje łowickie niż zachowane w muzeach stroje piotrkowskie.
 
-Strój rawsko-opoczyński obejmuje swoim zasięgiem obszar na lewym brzegu Pilicy (Rawa Mazowiecka, ośrodki w Sierzchowach, Rzeczycy, Lubochni) i na prawym brzegu Pilicy (Smardzewice, Opoczno, Drzewica, Odrzywół) [5].
-
-Tkactwem zajmowano się nie tylko na wsi, ale i w miastach – często była to wytwórczość na własny użytek. Ośrodkami sukienniczymi były: Drzewica, Żarnów, Klwów, Odrzywół, Gielniów i Białaczów [12]. Dzięki polepszającym się warunkom ekonomicznym odzież i tkaniny użytkowe stawały się coraz bardziej ozdobne. Zamożniejsze gospodynie kupowały lepszą przędze, barwiły ją w farbiarniach, kupowały jedwabne wstążki i bawełnę, aby dekorować nimi tkaniny.
-
-Od początku XX wieku na omawianym obszarze zaczęła maleć rola domowego tkactwa, które zaczynało być wypierane przez fabryczną produkcję włókienniczą. W przeciwieństwie jednak do innych regionów, rawsko-opoczyńskie przetrwało jako region z żywą kulturą ludową jeszcze do okresu po II wojnie światowej. W okresie PRL organizowano kursy tkackie i zakładano spółdzielnie pracy trudniące się rzemiosłem ludowym. Istotnymi ośrodkami tkackimi były wówczas Rzeczyca (Spółdzielnia Rękodzieła Artystycznego i Ludowego „Twórczość mazowiecka”) i Opoczno (Spółdzielnia Rękodzieła Artystycznego i Ludowego „Opocznianka”) [12].
+Bliskość ośrodków włókienniczych wpłynęła ujemnie na tradycyjne tkactwo „domowe”. Tkactwo i przędzalnictwo na własny użytek zaczęło ustępować chałupnictwu. W powiecie piotrkowskim chałupnictwem zajmowało się 4,6% mieszkańców, głównie z okolic Bełchatowa (Grocholice), co w skali całego regionu było dużym odsetkiem.  Od przełomu XIX i XX wieku wiejscy tkacze nabywali stary sprzęt z łódzkich i podłódzkich fabryk. Przykładem był powstały w ten sposób zakład włókienniczy w Jarostach działający początkowo w budynku karczmy [[14][bibliografia]].
 
 ## Surowce
 
-Na początku XIX wieku do wyrobu przędzy stosowano powszechnie konopie, później wyparte przez len, oraz wełnę. Bawełna pojawia się w tkactwie rawsko-opoczyńskim na przełomie XIX i XX wieku i to nie jako główny surowiec, ale raczej ozdobny dodatek do lnu, co było zapewne podyktowane względami ekonomicznymi. 
+Tak jak na obszarze całej Polski, surowcem do wyrobu tkanin była przędza lniana, wełniana, z rzadka konopna i bawełniana. Włókna roślinne przetwarzano z myślą o odzieży i tkaninach użytkowych. Wełna była zaś surowcem typowo odzieżowym – czasem tkano na osnowie lnianej i wątku wełnianym, innym razem „wełną na wełnie”. Od połowy XIX wieku w okolicach Piotrkowa zwiększyła się hodowla owiec, co spowodowało przewagę materiałów wełnianych nad lnianymi i konopnymi [[15][bibliografia]].
 
-Tkaniny konopne, gorszej jakości, były wykorzystywane do szycia ubiorów roboczych czy używanych w gospodarstwie ścierek, worków, sznurów. Podobne zastosowanie miało płótno lniane gorszej jakości, określane jako pacześne, zgrzebne lub „do zdzieru” [13]. Płótno lniane wysokiej jakości (czesankowe) było natomiast używane do szycia odświętnych koszul i chustek. Nieco grubsze płótno wykorzystywano do ręczników i bielizny. Z płótna lnianego szyto także pościel i prześcieradła (czyli narzuty na łóżko).
-
-Przędzę wełnianą stosowano przy tkaniu tkanin pasiastych i w przeciwieństwie do płótna lnianego, była ona farbowana bądź przy użyciu barwników naturalnych bądź, w późniejszych latach, sztucznych.
+Tkaniny wełniane i lniano-wełniane przeznaczone były na części odzieży takie jak kaftany, sukmany, wełniaki.
 
 ## Sploty i wzory
 
-Spośród splotów w okolicach Rawy Mazowieckiej i Opoczna stosowano najprostszy splot płócienny (dwunicielnicowy) polegający na krzyżowaniu osnowy z wątkiem. W ten sposób tkano płótna na koszule, fartuchy, wełniane tkaniny kraciaste. Przykładem splotu płóciennego jest charakterystyczny dla rawsko-opoczyńskiego pasiak, który tkany jest splotem płóciennym – przy jednobarwnej osnowie posiada wielobarwny wątek układany w różnorodne zestawienia [12].
-
-W rawsko-opoczyńskim znane są również wzory w kratę posiadające nie tylko różnobarwny wątek, ale i wielobarwną pasiastą osnowę. Obok drobnej kraty tkanin odzieżowych spotykano także płachty lniane o kratce prostokątnej, wąskiej i długiej i paskach pionowych o silniej zaakcentowanej barwie niż paski poziome. Ten typ tkaniny bywa określany nie jako kraciasty, a jako ukośnie skrzyżowany [12].
-
-Bardziej skomplikowane wzory pojawiają się na omawianym obszarze pod koniec XIX wieku – są to wzory kostkowe uzyskiwane dzięki zastosowaniu czterech nicielnic. Wzory te umieszczane były na kilimkach, płachtach, ozdobnych poszewkach. Większą liczbę nicielnic stosowano rzadko, gdyż tylko niewielka liczba kobiet potrafiła tkać skomplikowanymi splotami rządkowymi i ukośnymi.
-
-Urozmaicenie wyglądu tkanin uzyskiwano nie tylko dzięki zwiększaniu liczby nicielnic, ale także dzięki technice tkania przy pomocy deseczki tkackiej. Wzór w „deskę” był najczęściej stosowany w pasiakach wełnianych jako powtarzający się motyw kostkowy. Uzyskany wzór nazywany był „koziołkami”, „żmjkami” lub „kuloskami”. Wzór ten jest silnie związany z rawsko-opoczyńskim [7]. Wzory kostkowe uzupełniały wzory pasiaste na zapaskach, a także na tkaninach dekoracyjnych zwanych dywanami lub kilimami (wbrew dzisiejszemu rozumieniu służyły one do nakrywania łóżek). Bywały także stosowane na płachtach (powłoczkach na poduszki), prześcieradłach (nakryciach na łózko), oraz ubiorze – letnich sukniach, gorsetach, fartuchach [2].
+W tkactwie lnianym i lniano-bawełnianym oprócz podstawowego dwunicielnicowego splotu płóciennego spotykamy charakterystyczny dla piotrkowskiego (ale też dla sąsiedniego regionu rawsko-opoczyńskiego) wzór kostkowy. Nazywane *ząbkami* lub *drabinkami* wzory uzyskiwano dzięki użyciu deski tkackiej lub większej liczby nicielnic. Wzory kostkowe znane są również jako przeplotki. Najczęściej pojawiały się na męskich pasach do sukmany i zapaskach [[5][bibliografia]].
 
 ## Kolorystyka
 
-Zmieniające się wzory na tkaninach były związane z ewolucją kolorystyki tkanin. Im bliżej współczesnych czasów, tym bardziej była ona rozbudowana i zbliżała się mnogością barw do łowickiej (czego przykładem było stosowanie koloru żółto-pomarańczowego, nazywanego koło Rawy Mazowieckiej i Opoczna kolorem łowickim). Dla wełniaków z rawsko-opoczyńskiego początkowo charakterystyczny był układ wąskich pasów na tle czerwonym, ciemnozielonym lub bordo. Później pod wpływem mody łowickiej pojawia się tło żółte, a także jaskrawa zieleń, fiolet, niebieski.
+W piotrkowskich wełniakach dominowały najpierw pasy bardzo wąskie, później coraz szersze w kolorze czerwieni, granatu, fioletu, brązu, czerni i żółtym. Najstarsze wełniaki miały czerwone tło, a na nim wąskie paski w brązowych, niebieskich i białych barwach. Z czasem pasy stawały się szersze. 
+
+Tkaniny dekoracyjne użytkowe były znacznie uboższe w swoim wyglądzie. Podstawowym schematem kompozycyjnym w takich tkaninach był asymetryczny układ pasowy podlegający pod względem kolorystyki wpływom łowickim [[16][bibliografia]].
+
+[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
