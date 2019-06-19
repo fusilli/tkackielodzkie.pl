@@ -3,8 +3,8 @@ layout: base
 title: Regiony
 ---
 
-- [łęczyckie](/regiony/leczyckie)
-- [łowickie](/regiony/lowickie)
-- [opoczyńskie](/regiony/opoczynskie)
-- [piotrkowskie](/regiony/piotrkowskie)
-- [wieluńskie](/regiony/wielunskie)
+1. [łęczyckie](/regiony/leczyckie)
+2. [łowickie](/regiony/lowickie)
+3. [opoczyńskie](/regiony/opoczynskie)
+4. [piotrkowskie](/regiony/piotrkowskie)
+5. [wieluńskie](/regiony/wielunskie)
