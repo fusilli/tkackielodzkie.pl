@@ -9,7 +9,7 @@ module.exports = function(eleventyConfig) {
   const cacheBusterOptions = { outputDirectory: "_site" };
 
   eleventyConfig.setLibrary("md", markdownLib);
-  eleventyConfig.addPassthroughCopy("assets/img");
+  eleventyConfig.addPassthroughCopy("foto");
 
   eleventyConfig.addFilter("cudzyslowy", str => {
     return str.replace(/([\s][\(]?)(&quot;)([\S])/g, "\$1&bdquo;\$3").replace(/([\S])(&quot;)([\)]?[\s])/g, "\$1&rdquo;\$3");
@@ -21,6 +21,14 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addShortcode("rok", () => {
     return `${new Date().getUTCFullYear()}`;
+  });
+
+  eleventyConfig.addShortcode("foto", (file, alt = "", podpis = "") => {
+    return `<figure><img src="/foto/${file}" ${ alt ? `alt="${alt}"` : ``} >${ podpis ? `<figcaption>${podpis}</figcaption>` : ``}</figure>`;
+  });
+
+  eleventyConfig.addShortcode("youtube", url => {
+    return `<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="//www.youtube.com/embed/${url}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe></div>`;
   });
 
   if ( process.env.NODE_ENV !== "development" ) {
@@ -42,6 +50,7 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "views"
     },
-    passthroughFileCopy: true
+    passthroughFileCopy: true,
+    markdownTemplateEngine: "njk"
   };
 };

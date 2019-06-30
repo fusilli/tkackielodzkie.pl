@@ -76,7 +76,7 @@ main {
     -1px 1px 0 theme('colors.gray.200'),
      1px 1px 0 theme('colors.gray.200');
   }
-  a::before {
+  a::after {
     content: '';
     position: absolute;
     bottom: 4px;
