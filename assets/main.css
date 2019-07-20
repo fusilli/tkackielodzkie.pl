@@ -61,8 +61,11 @@
   src: url(/fonts/alegreya/Alegreya-Black.woff2) format("woff2");
 }
 main {
-  p, ul, ol {
+  p, ul, ol, figure {
     margin: 1.5em 0;
+  }
+  figcaption {
+    margin-top: .5em;
   }
   h2 {
     @apply text-4xl text-center font-bold uppercase tracking-wide text-gray-700;

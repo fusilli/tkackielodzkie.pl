@@ -23,12 +23,12 @@ module.exports = function(eleventyConfig) {
     return `${new Date().getUTCFullYear()}`;
   });
 
-  eleventyConfig.addShortcode("foto", (file, alt = "", podpis = "") => {
-    return `<figure><img src="/foto/${file}" ${ alt ? `alt="${alt}"` : ``} >${ podpis ? `<figcaption>${podpis}</figcaption>` : ``}</figure>`;
+  eleventyConfig.addShortcode("foto", (file, podpis = "") => {
+    return `<figure><img class="mx-auto" src="/foto/${file}" ${ podpis ? `alt="${podpis}"` : ``} >${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
-  eleventyConfig.addShortcode("youtube", url => {
-    return `<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="//www.youtube.com/embed/${url}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe></div>`;
+  eleventyConfig.addShortcode("youtube", (url, podpis = "") => {
+    return `<figure><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="//www.youtube.com/embed/${url}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe></div>${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
   if ( process.env.NODE_ENV !== "development" ) {

@@ -13,10 +13,6 @@ Inaczej niż np. w kraciakach, przygotowywanie osnowy na pasiak nie wymaga zważ
 
 O tym, jak proces ten wygląda w szczegółach, opowiadają poniższe filmy.
 
-### Snucie pasiaka – część I
+{% youtube "xcS2uORK_Yk", "Snucie pasiaka – część I" %}
 
-{% youtube "xcS2uORK_Yk" %}
-
-### Snucie pasiaka – część II
-
-{% youtube "5FjWOqbqs6U" %}
+{% youtube "5FjWOqbqs6U", "Snucie pasiaka – część II" %}
