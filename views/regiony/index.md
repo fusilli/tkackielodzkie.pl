@@ -1,8 +1,7 @@
 ---
-layout: base
+layout: regiony
 title: Regiony
 ---
-
 1. [łęczycko-sieradzkie](/regiony/leczycko-sieradzkie)
 2. [łowickie](/regiony/lowickie)
 3. [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie)

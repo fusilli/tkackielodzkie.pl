@@ -25,6 +25,8 @@
   <main class="text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
     {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
     <div class="px-16">
+      {% block mapa %}
+      {% endblock %}
       {{ content | cudzyslowy | sierotki | safe }}
     </div>
   </main>

@@ -1,0 +1,8 @@
+{% extends "base.njk" %}
+{% block mapa %}
+<div class="relative">
+  <img style="mix-blend-mode: multiply;" src="/assets/mapa/tkaniny.jpg">
+  {% include "mapa.html" %}
+  <img class="absolute top-0 pointer-events-none" src="/assets/mapa/mapa.png">
+</div>
+{% endblock %}
