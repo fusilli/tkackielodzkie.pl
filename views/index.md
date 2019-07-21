@@ -2,4 +2,4 @@
 layout: base
 title: Home
 ---
-<img src="/foto/len.jpg" class="len mx-auto">
+<img src="/foto/len.png" class="mx-auto">

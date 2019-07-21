@@ -7,7 +7,7 @@ title: Surowce
 
 Włókno lniane stanowi część łykową lnu zwyczajnego (Linum usitatissimum L.).
 
-{% foto "len-rys1.jpg", "dodać opis" %}
+{% foto "len-rys1.jpg", "Len zwyczajny" %}
 
 Len jest uznawany za jedną z najstarszych roślin używanych do wyrobu tkanin. Szacuje się, że w Europie znano go już 5000 lat p.n.e. [[19][bibliografia]]. Na wsiach Polski środkowej w dużym stopniu wyparł powszechnie wcześniej konopie, ze względu na swoją trwałość, wartości estetyczne (płótno lniane jest znacznie delikatniejsze), a także, jak podkreśla Kondratiukowa, higieniczne (przewiewność oraz mniejsze chłonięcie brudu i potu) [[12][bibliografia]].
 
@@ -16,35 +16,42 @@ Sama obróbka rośliny jest dość czasochłonna. W tradycyjnej uprawie składa�
 1. Zbiór (mniej więcej we wrześniu) – rośliny były wyrywane z korzeniami (a nie koszone), ze względu na chęć pozyskania jak najdłuższych, łatwo przędących się włókien.
 2. Suszenie – poprzez ekspozycję niezwiązanego lnu na słońcu (w snopkach mógłby fermentować).
 3. Odziarnianie i młocka – odseparowanie ziarnistych główek lnu od łodygi (cepem lub poprzez wyczesywanie na grzebieniu).
+
+{% foto "len1.jpg", "Młócenie lnu i grzebień do odziarniania lnu, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
+{% foto "len2.jpg", "Młócenie lnu i grzebień do odziarniania lnu, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
 4. Roszenie (moczenie) – poddanie łodyg lnu długotrwałemu wpływowi wilgoci, aby włókno oddzieliło się od zdrewniałej części łodygi (paździerza). W zależności od dostępu do wody (rzeki, strugi) odbywało się albo przez moczenie w wodzie albo przez układanie (ścielenie) na trawie, by włókna nasiąkły rosą. W tym drugim wypadku proces trwał ok. 3 tygodni i należało pilnować, aby nie przegapić momentu wyroszenia, bo wówczas zaczynało się niszczyć włókno. 
 
-{% foto "len1.jpg", "fot. wiano.eu" %}
+{% foto "len3.jpg", "Roszenie lnu, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
 5. Ponowne suszenie – aby zatrzymać proces rozwoju pleśni.
 6. Międlenie i trzepanie – polegało na połamaniu łodyg specjalnym urządzeniem (międlica – z jednym ostrzem, cierlica – z dwoma), a następnie ich wytrzepaniu celem oddzielenia połamanych paździerzy od włókien, przy pomocy trzepaka.
 Czasem otrzepywano jeszcze oddzielone paździerze, aby odzyskać włókna krótkie (pakuły), stosowane np. do wyrobu worków. 
 
-{% foto "len2.jpg", "dodać opis" %}
+{% foto "len4.jpg", "Międlenie lnu, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
-7. Czesanie – posortowane według gatunków (jakości) włókna, wyczesywano na specjalnym grzebieniu, najpierw na części z rzadziej, a następnie gęściej rozstawionymi zębami.
+7. Czesanie – posortowane według gatunków (jakości) włókna, wyczesywano na specjalnej szczotce (lub dwóch, o różnym rozstawie zębów), najpierw na części z rzadziej, a następnie gęściej rozstawionymi zębami.
 
-{% foto "len3.jpg", "fot. wiano.eu" %}
+{% foto "len5.jpg", "Szczotka do czesania lnu, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
-8. Przędzenie – przetwarzanie luźnego wyczesanego włókna na nić. Początkowo wykorzystywano w tym celu wrzeciona, ale w XIX w. powszechnie używano kołowrotków (kółek).
+8. Przędzenie – przetwarzanie luźnego wyczesanego włókna na nić. Początkowo wykorzystywano w tym celu wrzeciona, potem przęślice, ale w XIX w. powszechnie używano kołowrotków (kółek).
 
-{% foto "len4.jpg", "fot. wiano.eu" %}
+{% foto "len6.jpg", "Kołowrotek" %}
 
 Len może być, w zależności od stopnia obróbki, wykorzystywany do wyrobu tkanin różnej jakości i o różnym stopniu delikatności. Najgrubsze, najgorszej jakości włókna przerabiano na tzw. płótno zgrzebne, wykorzystywane do produkcji worków, płacht, sienników.
 
 Lepsze jakościowo, dłuższe włókna szły na płótno pacześne, używane jako tkanina na bieliznę i pościel. Płótno pacześne bielone jest zwykle po wytkaniu, poprzez ekspozycję tkaniny na słońce.
 
-{% foto "len5.jpg", "fot. wiano.eu" %}
+{% foto "len7.jpg", "Płótno pacześne" %}
 
 Najdelikatniejsze, cieniutkie włókna stosowano z kolei do wyrobu koszul i chustek. Dla uzyskania większej gęstości, tkało się je często na czterech nicielnicach, z nici bielonych w motkach [[12][bibliografia]].
 
 Wraz z rewolucją przemysłową, na wieś zaczyna przedostawać się bawełna. Początkowo, ze względu na cenę stosowana była bardziej jako dekoracyjny dodatek do lnu, a z czasem wykorzystywana coraz intensywniej [patrz: [Bawełna](#bawe%C5%82na)].
 
 Obecnie, nici lniane nie są dostępne aż tak powszechnie jak niegdyś, a w dodatku ich cena jest wyższa niż bawełnianych. Ciągle można je jednak nabyć. m.in. w sprzedaży internetowej (np.: [grzanpol.com.pl](http://grzanpol.com.pl), [linenmouse.com](http://www.linenmouse.com), [sojka.net.pl](http://www.sojka.net.pl)).
+
+***
 
 ## Wełna
 
@@ -80,21 +87,29 @@ Z procesów dotyczących obróbki już nie samej przędzy wełnianej, a samodzia
 {% foto "welna5.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 {% foto "welna6.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
+***
+
 ## Bawełna
+
+***
 
 ## Konopie
 
 Konopie jest włóknem roślinnym. Pochodzi z łyka konopi siewnych (Cannabis sativa L.).
 
-{% foto "konopie-rys1.jpg", "dodać opis" %}
+{% foto "konopie-rys1.jpg", "Konopie siewne" %}
 
 Ma podobne właściwości jak włókno lniane, ale jest przy tym grubsze, sztywniejsze i twardsze. Zbliżona do lnu jest również obróbka konopi, która składa się z roszenia, międlenia i trzepania.
 
+{% foto "konopie1.jpg", "Suszenie i międlenie konopi, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
+{% foto "konopie2.jpg", "Suszenie i międlenie konopi, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
 Do produkcji tkanin wykorzystywano z powodzeniem tzw. włókna przędzalnicze – dłuższe, o mniejszym stopniu zanieczyszczenia. Pozostałe włókna (powroźnicze) stosowano zgodnie z nazwą do wyrobu wszelkiego rodzaju lin i powrozów [[19][bibliografia]].
 
-{% foto "konopie1.jpg", "dodać opis" %}
+{% foto "konopie3.jpg", "Sznurek i pakuły konopne" %}
 
-{% foto "konopie2.jpg", "dodać opis" %}
+{% foto "konopie4.jpg", "Sznurek i pakuły konopne" %}
 
 Początkowo konopie były stosowane dość powszechnie do wyrobu tkanin bieliźnianych (stosowanych do wyrobu bielizny i pościeli), a szczyt ich użytkowania przypadł na czasy Królestwa Kongresowego (pierwsza poł. XIX w.) [[12][bibliografia]]. Konopie, ze względu na wytrzymałość, to również dobry materiał na worki czy plandeki, a także na tkaniny wystawione na długotrwały kontakt z wilgocią (są odporne na procesy gnilne) [[26][bibliografia]].
 
