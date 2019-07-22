@@ -1,6 +1,6 @@
 ---
 layout: base
-title: wieluńskie
+title: Region wieluński
 ---
 
 Powiat wieluński wyznacza południowo-zachodnią granicę obecnego województwa łódzkiego. Jego usytuowanie na granicy Śląska, Małopolski i Wielkopolski sprawiało, że mieszały się tutaj różne regionalne wpływy. Zasięg tkaniny i stroju wieluńskiego obejmował w XX wieku cały dzisiejszy powiat wieluński – bez jego części zachodniej, graniczącej z Wieruszowem, i wschodniej – w stronę Pajęczna.
@@ -19,6 +19,6 @@ O ile tkaniny odzieżowe odróżniają wieluńskie od sąsiedzkich ziem, o tyle 
 
 ---
 
-↑ [Regiony](/regiony/) | ← [piotrkowskie](/regiony/piotrkowskie/)
+↑ [Regiony](/regiony/) | ← [piotrkowski](/regiony/piotrkowski/)
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

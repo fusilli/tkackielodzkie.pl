@@ -3,11 +3,11 @@ layout: regiony
 title: Regiony
 ---
 
-- → [łęczycko-sieradzkie](/regiony/leczycko-sieradzkie/)
-- → [łowickie](/regiony/lowickie/)
-- → [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/)
-- → [piotrkowskie](/regiony/piotrkowskie/)
-- → [wieluńskie](/regiony/wielunskie/)
+- → [łęczycko-sieradzkie](/regiony/leczycko-sieradzki/)
+- → [łowickie](/regiony/lowicki/)
+- → [rawsko-opoczyńskie](/regiony/rawsko-opoczynski/)
+- → [piotrkowskie](/regiony/piotrkowski/)
+- → [wieluńskie](/regiony/wielunski/)
 
 ---
 

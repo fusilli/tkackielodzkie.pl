@@ -1,6 +1,6 @@
 ---
 layout: base
-title: piotrkowskie
+title: Region piotrkowski
 ---
 
 W XX wieku zasięg etnograficzny tkaniny i stroju piotrkowskiego wyznaczały na północy Tuszyn i Kurowice, na wschodzie rzeka Pilica, zaś na południu i zachodzie miejscowości Głupice, Zawady, Poraj i Ręczno [[5][bibliografia]]. Najszybciej zaginął strój męski. Strój kobiecy przetrwał w nielicznych parafiach (Czarnocin, Wolbórz) do naszych czasów i bywa zakładany przez kobiety na ważniejsze uroczystości kościelne, jednak dziś bardziej przypomina stroje łowickie niż zachowane w muzeach stroje piotrkowskie.
@@ -25,6 +25,6 @@ Tkaniny dekoracyjne użytkowe były znacznie uboższe w swoim wyglądzie. Podsta
 
 ---
 
-↑ [Regiony](/regiony/) | ← [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/) | [wieluńskie](/regiony/wielunskie/) →
+↑ [Regiony](/regiony/) | ← [rawsko-opoczyński](/regiony/rawsko-opoczynski/) | [wieluński](/regiony/wielunski/) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

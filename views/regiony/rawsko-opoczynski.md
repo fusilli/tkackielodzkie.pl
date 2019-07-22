@@ -1,6 +1,6 @@
 ---
 layout: base
-title: rawsko-opoczyńskie
+title: Region rawsko-opoczyński
 ---
 
 Ze względu na bliskość geograficzną i zbliżoną kulturę ludową, w literaturze etnograficznej zwykło się traktować rawskie i opoczyńskie jako jeden region (rawsko-opoczyński). Stroje ludowe z okolic Rawy Mazowieckiej i Opoczna wykazują wiele cech wspólnych w zakresie rozwiązań estetycznych i stosowanych technik tkackich.
@@ -35,6 +35,6 @@ Zmieniające się wzory na tkaninach były związane z ewolucją kolorystyki tka
 
 ---
 
-↑ [Regiony](/regiony/) | ← [łowickie](/regiony/lowickie/) | [piotrkowskie](/regiony/piotrkowskie/) →
+↑ [Regiony](/regiony/) | ← [łowicki](/regiony/lowicki/) | [piotrkowski](/regiony/piotrkowski/) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia
