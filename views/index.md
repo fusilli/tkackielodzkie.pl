@@ -2,4 +2,4 @@
 layout: base
 title: Home
 ---
-<img src="/foto/len.png" class="mx-auto">
+<a href="/rys-historyczny/"><img src="/foto/len.png" class="mx-auto"></a>

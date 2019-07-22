@@ -32,4 +32,6 @@ Urozmaicenie wyglądu tkanin uzyskiwano nie tylko dzięki zwiększaniu liczby ni
 
 Zmieniające się wzory na tkaninach były związane z ewolucją kolorystyki tkanin. Im bliżej współczesnych czasów, tym bardziej była ona rozbudowana i zbliżała się mnogością barw do łowickiej (czego przykładem było stosowanie koloru żółto-pomarańczowego, nazywanego koło Rawy Mazowieckiej i Opoczna kolorem łowickim). Dla wełniaków z rawsko-opoczyńskiego początkowo charakterystyczny był układ wąskich pasów na tle czerwonym, ciemnozielonym lub bordo. Później pod wpływem mody łowickiej pojawia się tło żółte, a także jaskrawa zieleń, fiolet, niebieski.
 
+↑ [Regiony](/regiony/) | ← [łowickie](/regiony/lowickie/) | [piotrkowskie](/regiony/piotrkowskie/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

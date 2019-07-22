@@ -12,4 +12,6 @@ Jak ujmuje to Bronisława Kopczyńska-Jaworska, województwo łódzkie było, a 
 
 Współcześnie różnice regionalne ulegają zatarciu i przestają być widoczne. Pamiątkami odrębności regionalnej są zabytki kultury materialnej i niematerialnej. Bywa, że pamiątki te możemy zobaczyć już tylko w muzeach, ale pewien zwrot ku lokalności powoduje, że pojawiają się inicjatywy przypominające o regionalnym dziedzictwie kulturowym.
 
+← [Rys historyczny](/rys-historyczny/) | [Regiony](/regiony/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

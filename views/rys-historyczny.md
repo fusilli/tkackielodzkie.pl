@@ -21,4 +21,6 @@ Upadek lub zmniejszenie skali działania cepeliowskich spółdzielni i wynikają
 
 Jednocześnie pojawia się nurt rzemiosła miejskiego, w ramach którego osoby wykształcone u twórców ludowych, na kursach rzemieślniczych lub samodzielnie, próbują sił w tkactwie, łącząc tradycyjne techniki z nowymi wzorami i zapotrzebowaniem.
 
+[Województwo łódzkie](/wojewodztwo-lodzkie/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

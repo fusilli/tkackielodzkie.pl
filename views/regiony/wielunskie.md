@@ -16,4 +16,6 @@ Podobnie jak w innych regionach dominującym wzorem materiałów były pasy. We�
 
 O ile tkaniny odzieżowe odróżniają wieluńskie od sąsiedzkich ziem, o tyle tkaniny użytkowe nie są zbyt oryginalne pod tym względem. Niemniej tkanina dekoracyjna znajdowała swoje miejsce we wnętrzach mieszkalnych. O miejscowych tradycjach tkackich świadczą lniano-wełniane derki. Derki odznaczały się skromnym wzornictwem, zbudowanym z dwóch lub trzech pasów równej szerokości (3-5 cm), najczęściej w kolorach czerwonym, czarnym, żółtym, zielonym [[16][bibliografia]].
 
+↑ [Regiony](/regiony/) | ← [piotrkowskie](/regiony/piotrkowskie/)
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

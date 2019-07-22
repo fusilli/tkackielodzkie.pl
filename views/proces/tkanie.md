@@ -21,8 +21,10 @@ Każde utkane płótno musi być też w odpowiedni sposób zakończone (co w zal
 
 U nas proces tkania można prześledzić na przykładzie:
 
-- [pasiaka](/proces/tkanie/pasiak), 
-- [krajki](/proces/tkanie/krajka),
-- [kraciaka](/proces/tkanie/kraciak).
+- → [Pasiaka](/proces/tkanie/pasiak)
+- → [Krajki](/proces/tkanie/krajka)
+- → [Kraciaka](/proces/tkanie/kraciak)
+
+↑ [Proces](/proces/) | ← [Snucie](/proces/snucie/)
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

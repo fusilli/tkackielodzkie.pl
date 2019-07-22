@@ -4,7 +4,7 @@ title: łęczycko-sieradzkie
 ---
 Umowny zasięg etnograficzny łęczyckiego obejmuje: na północy Kłodawę i Krośniewice, na południu Stryków i Górę Bałdrzychowską (powiat poddębicki), na zachodzie zasięg nie jest ustalony, natomiast na wschodzie strój sięgał do wsi Mąkolice i Mirosław (powiat zgierski) [[8][bibliografia]].
 
-Ze względu na bliskie sąsiedztwo miast fabrycznych, łęczyckie podlegało wpływom miejskim, co spowodowało znacznie szybszy zanik kultury ludowej niż w regionach bardziej oddalonych od łódzkiego okręgu włókienniczego. Kres stroju łęczyckiego to pierwsza wojna światowa. Dopiero ostatnie lata przyniosły inicjatywy, które przypominają o lokalnych tradycjach [[9][bibliografia]].
+Ze względu na bliskie sąsiedztwo miast fabrycznych, łęczyckie podlegało wpływom miejskim, co spowodowało znacznie szybszy zanik kultury ludowej niż w regionach bardziej oddalonych od łódzkiego okręgu włókienniczego. Kres stroju łęczyckiego to pierwsza wojna światowa. Dopiero ostatnie lata przyniosły inicjatywy, które przypominają o lokalnych tradycjach [[9][bibliografia]]
 
 ## Surowce:
 
@@ -23,5 +23,7 @@ Przy tkaniu lnu korzystano z podstawowej techniki tkackiej, jaką jest splot pł
 O odrębności tkaniny łęczyckiej świadczy stosowany układ pasów oraz kolorystyka. *Kompozycja łęczyckich tkanin odzieżowych* (…) *polega na powtarzającym się raporcie na całej szerokości i tworzących go zespołach pasków, których w raporcie mogło być kilka rodzajów, oraz rytmie powstającym poprzez powtarzanie motywów o określonej długości od siebie. Czasami był to rytm pozorny, który uzyskiwano poprzez wprowadzenie do tkaniny stałych akcentów kolorystycznych* [[8][bibliografia]].
 
 Ze względu na szybki zanik stroju kolorystyka łęczyckich tkanin nie rozwinęła się tak jak w innych regionach. Podobnie jak w pozostałych regionach, najbardziej archaiczne było zestawienie czerwieni z czernią. Kiedy stały się dostępne sztuczne barwniki anilinowe, gama kolorystyczna fartuchów do pasa wzbogaciła się o barwy zielone, fioletowe, żółte zestawione z tłem zielonym, szafirowym, szarym, fioletowym. Zapaski na naramienne miały czerwone tło z paskami zielonymi i czarnymi, później ich kolorystyka wzbogaciła się o kolor biały, buraczkowy i żółty. Na zapaskach do pasa pojawiają się ponadto barwy liliowe, granatowe, amarantowe (nazywane kolorem biskupim, który uznawany jest za wyróżnik stroju łęczyckiego), fioletowe, karminowe, czerwone. Stroje męskie zachowały do końca archaiczną kolorystykę – czerwoną, czarną, zieloną, a w okolicach Tumu pod Łęczycą również biskupią (amarantową) [[8][bibliografia]].
+
+↑ [Regiony](/regiony/) | [łowickie](/regiony/lowickie/) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

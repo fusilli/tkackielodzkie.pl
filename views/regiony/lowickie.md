@@ -30,4 +30,6 @@ Charakterystyczna dla wełniaków kolorystyka początkowo była mniej wyrazista 
 
 W przeciwieństwie do pasiaków, kraciaki miały jedną dominującą tonację, najpierw ciemnoczerwoną, później także żółtą i pomarańczową [[7][bibliografia]].
 
+↑ [Regiony](/regiony/) | ← [łęczycko-sieradzkie](/regiony/leczycko-sieradzkie/) | [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

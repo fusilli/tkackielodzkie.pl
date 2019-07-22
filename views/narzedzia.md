@@ -2,21 +2,10 @@
 layout: base
 title: Narzędzia
 ---
+- → [Krosno](/narzedzia/krosno)
+- → [Snowadło](/narzedzia/snowadlo)
+- → [Motowidło](/narzedzia/motowidlo)
+- → [Kołowrotek](/narzedzia/kolowrotek)
+- → [Cierlice/międlice](/narzedzia/cierlice-miedlice)
 
-## Krosno
-
-***
-
-## Snowadło
-
-***
-
-## Motowidło
-
-***
-
-## Kołowrotek
-
-***
-
-## Cierlice/międlice
+← [Surowce](/surowce/) | [Proces](/proces/) →

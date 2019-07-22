@@ -22,4 +22,6 @@ W piotrkowskich wełniakach dominowały najpierw pasy bardzo wąskie, później 
 
 Tkaniny dekoracyjne użytkowe były znacznie uboższe w swoim wyglądzie. Podstawowym schematem kompozycyjnym w takich tkaninach był asymetryczny układ pasowy podlegający pod względem kolorystyki wpływom łowickim [[16][bibliografia]].
 
+↑ [Regiony](/regiony/) | ← [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/) | [wieluńskie](/regiony/wielunskie/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia
