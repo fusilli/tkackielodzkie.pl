@@ -26,4 +26,6 @@ title: Słowniczek i bibliografia
 17. Dekowski Jan Piotr, *Strój sieradzki*, „Atlas polskich strojów ludowych” cz. 4, Wrocław 1959.
 18. Woźniak Alicja, *Barwy regionu. Rzecz o strojach ludowych na terenie województwa łódzkiego*, Łódź 2013 s. 97.
 
+---
+
 ← [Proces](/proces/) | [Twórczynie](/tworczynie/) →

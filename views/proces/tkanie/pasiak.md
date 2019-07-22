@@ -21,4 +21,8 @@ Tkanie pasiaka w praktyce wygląda natomiast tak…
 
 {% youtube "QPUgD85fM54" %}
 
+---
+
+↑ [Tkanie](/proces/tkanie/) | [Krajka](/proces/tkanie/krajka/) →
+
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

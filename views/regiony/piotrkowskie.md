@@ -2,6 +2,7 @@
 layout: base
 title: piotrkowskie
 ---
+
 W XX wieku zasięg etnograficzny tkaniny i stroju piotrkowskiego wyznaczały na północy Tuszyn i Kurowice, na wschodzie rzeka Pilica, zaś na południu i zachodzie miejscowości Głupice, Zawady, Poraj i Ręczno [[5][bibliografia]]. Najszybciej zaginął strój męski. Strój kobiecy przetrwał w nielicznych parafiach (Czarnocin, Wolbórz) do naszych czasów i bywa zakładany przez kobiety na ważniejsze uroczystości kościelne, jednak dziś bardziej przypomina stroje łowickie niż zachowane w muzeach stroje piotrkowskie.
 
 Bliskość ośrodków włókienniczych wpłynęła ujemnie na tradycyjne tkactwo „domowe”. Tkactwo i przędzalnictwo na własny użytek zaczęło ustępować chałupnictwu. W powiecie piotrkowskim chałupnictwem zajmowało się 4,6% mieszkańców, głównie z okolic Bełchatowa (Grocholice), co w skali całego regionu było dużym odsetkiem.  Od przełomu XIX i XX wieku wiejscy tkacze nabywali stary sprzęt z łódzkich i podłódzkich fabryk. Przykładem był powstały w ten sposób zakład włókienniczy w Jarostach działający początkowo w budynku karczmy [[14][bibliografia]].
@@ -21,6 +22,8 @@ W tkactwie lnianym i lniano-bawełnianym oprócz podstawowego dwunicielnicowego 
 W piotrkowskich wełniakach dominowały najpierw pasy bardzo wąskie, później coraz szersze w kolorze czerwieni, granatu, fioletu, brązu, czerni i żółtym. Najstarsze wełniaki miały czerwone tło, a na nim wąskie paski w brązowych, niebieskich i białych barwach. Z czasem pasy stawały się szersze. 
 
 Tkaniny dekoracyjne użytkowe były znacznie uboższe w swoim wyglądzie. Podstawowym schematem kompozycyjnym w takich tkaninach był asymetryczny układ pasowy podlegający pod względem kolorystyki wpływom łowickim [[16][bibliografia]].
+
+---
 
 ↑ [Regiony](/regiony/) | ← [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/) | [wieluńskie](/regiony/wielunskie/) →
 

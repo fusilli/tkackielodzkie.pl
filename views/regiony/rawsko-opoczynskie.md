@@ -2,6 +2,7 @@
 layout: base
 title: rawsko-opoczyńskie
 ---
+
 Ze względu na bliskość geograficzną i zbliżoną kulturę ludową, w literaturze etnograficznej zwykło się traktować rawskie i opoczyńskie jako jeden region (rawsko-opoczyński). Stroje ludowe z okolic Rawy Mazowieckiej i Opoczna wykazują wiele cech wspólnych w zakresie rozwiązań estetycznych i stosowanych technik tkackich.
 
 Strój rawsko-opoczyński obejmuje swoim zasięgiem obszar na lewym brzegu Pilicy (Rawa Mazowiecka, ośrodki w Sierzchowach, Rzeczycy, Lubochni) i na prawym brzegu Pilicy (Smardzewice, Opoczno, Drzewica, Odrzywół) [[5][bibliografia]].
@@ -31,6 +32,8 @@ Urozmaicenie wyglądu tkanin uzyskiwano nie tylko dzięki zwiększaniu liczby ni
 ## Kolorystyka
 
 Zmieniające się wzory na tkaninach były związane z ewolucją kolorystyki tkanin. Im bliżej współczesnych czasów, tym bardziej była ona rozbudowana i zbliżała się mnogością barw do łowickiej (czego przykładem było stosowanie koloru żółto-pomarańczowego, nazywanego koło Rawy Mazowieckiej i Opoczna kolorem łowickim). Dla wełniaków z rawsko-opoczyńskiego początkowo charakterystyczny był układ wąskich pasów na tle czerwonym, ciemnozielonym lub bordo. Później pod wpływem mody łowickiej pojawia się tło żółte, a także jaskrawa zieleń, fiolet, niebieski.
+
+---
 
 ↑ [Regiony](/regiony/) | ← [łowickie](/regiony/lowickie/) | [piotrkowskie](/regiony/piotrkowskie/) →
 

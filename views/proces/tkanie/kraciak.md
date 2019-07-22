@@ -13,3 +13,7 @@ Uciążliwością przy tkaniu kraciaka o wątku i osnowie wełnianej, jest z pew
 Jak przebiega tkanie kraciaka, można zobaczyć w filmie.
 
 {% youtube "????????", "Kraciak, tkanie" %}
+
+---
+
+↑ [Tkanie](/proces/tkanie/) | ← [Krajka](/proces/tkanie/krajka/) | [Tkaniny wielonicielnicowe](/proces/tkanie/tkaniny-wielonicielnicowe) →

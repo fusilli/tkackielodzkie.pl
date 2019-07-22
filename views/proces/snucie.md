@@ -44,6 +44,9 @@ Choć sam schemat snucia jest dość zbliżony, różni się on szczegółami w 
 - → [Pasiak](/proces/snucie/pasiak)
 - → [Krajka](/proces/snucie/krajka)
 - → [Kraciak](/proces/snucie/kraciak)
+- → [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe)
+
+---
 
 ↑ [Proces](/proces/) | ← [Przygotowanie nici](/proces/przygotowanie-nici/) | [Tkanie](/proces/tkanie/) →
 

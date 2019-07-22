@@ -24,6 +24,9 @@ U nas proces tkania można prześledzić na przykładzie:
 - → [Pasiaka](/proces/tkanie/pasiak)
 - → [Krajki](/proces/tkanie/krajka)
 - → [Kraciaka](/proces/tkanie/kraciak)
+- → [Tkanin wielonicielnicowych](/proces/tkanie/tkaniny-wielonicielnicowe)
+
+---
 
 ↑ [Proces](/proces/) | ← [Snucie](/proces/snucie/)
 

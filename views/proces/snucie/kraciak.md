@@ -2,6 +2,7 @@
 layout: base
 title: Snucie – Kraciak
 ---
+
 Województwo łódzkie to nie Szkocja. Tkaniny w kratę były tutaj znacznie mniej popularne niż pasiaki i znacznie węziej „wyspecjalizowane”. Służyły bowiem głównie do tworzenia tkanin dekoracyjnych, a jeśli już odzieżowych – to męskich (kamizel i kaftanów) [[18][bibliografia]].
 
 Najbardziej charakterystycznym przykładami kraciaków są łowickie *nospy*, stosowane jako wierzchnia część poszwy na pierzynę. [fot. 1 i 2]
@@ -19,5 +20,9 @@ Zaproponowana przez nas tkanina kraciasta ma zarówno osnowę jak i wątek wełn
 {% youtube "dodać link", "Kraciak, snucie – przygotowanie osnowy" %}
 
 {% youtube "XXxT0Ek1-jA", "Kraciak, snucie – nawijanie osnowy na krosno" %}
+
+---
+
+↑ [Snucie](/proces/snucie/) | ← [Krajka](/proces/snucie/krajka/) | [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

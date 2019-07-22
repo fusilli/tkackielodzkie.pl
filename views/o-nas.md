@@ -7,4 +7,6 @@ title: O nas
 
 ## REGIO
 
+---
+
 ← [Twórczynie](/tworczynie/) 

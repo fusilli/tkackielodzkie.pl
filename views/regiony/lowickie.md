@@ -2,6 +2,7 @@
 layout: base
 title: łowickie
 ---
+
 Powiat łowicki to dziś północno-wschodni kraniec województwa łódzkiego. Historycznie łowickie związane było z Mazowszem (jako część rawskiego). Mieszkańcy łowickiego zwykli nazywać siebie Księżakami – łowickie należało do dóbr biskupów gnieźnieńskich, którzy mieli ambicje książęce. Jako region etnograficzny łowickie obejmuje ziemie na wschodnich krańcach dzisiejszego powiatu kutnowskiego, cały powiat łowicki oraz północno-zachodni fragment powiatu skierniewickiego, sięgający Głuchowa i Lipiec Reymontowskich [[5][bibliografia]]. W niektórych opracowaniach łączy się łowickie z sannickim ze względu na zbliżony strój ludowy obu regionów.
 
 Niewiele wiadomo o tkactwie w łowickiem przed latami 30. XIX wieku, kiedy to obok tkanin płóciennych pojawiają się powszechnie wyroby wełniane. Wcześniej ubiory musiały być skromne, zapewne tkane najprostszym splotem płóciennym, o ograniczonej palecie barw [[6][bibliografia]].
@@ -29,6 +30,8 @@ Nospy przestano wyrabiać już w dwudziestoleciu międzywojennym ze względu na 
 Charakterystyczna dla wełniaków kolorystyka początkowo była mniej wyrazista niż w późniejszych okresach – wytwarzano tkaniny pasiaste w odcieniach szafirowych, jasno-ceglastych, czarnych, ciemnozielonych i czerwonych z wąskimi paseczkami (brążkami) białymi, niebieskimi i zielonymi. Na sukmany wyrabiano tkaniny jednobarwne białe lub szare, a w tkaninach kraciastych używano z przyczyn praktycznych ciemnej przędzy. Od II połowy XIX wieku materiał zyskuje nowe kolory, spośród których najbardziej charakterystycznym staje się stosowany od końca XIX wieku kolor dubeltowy (pomarańczowy), wypierający barwę czerwoną. Tkaczki nie były już skazane na stosowanie barwników naturalnych. Mogły zanosić przędze do farbiarni lub samodzielnie korzystać z kupnych barwników sztucznych. W XX wieku na tkaninach wełnianych zagoszczą tonacje zimne, dotychczas w ludowym rzemiośle niestosowane [[6][bibliografia]]. Pasy stają się też coraz szersze (nawet do 35 cm) – stąd zastosowanie brążek jako urozmaicenia wzoru. Dzięki zamożności łowickich gospodarstw i dużej inwencji twórczej kobiet, wzornictwo tkanin zmieniało się bardzo często. Pasiaki tyko na pozór były podobne do siebie – po przyjrzeniu się można było dostrzec indywidualne piętno tkaczki odciśnięte w każdym ze wzorów.
 
 W przeciwieństwie do pasiaków, kraciaki miały jedną dominującą tonację, najpierw ciemnoczerwoną, później także żółtą i pomarańczową [[7][bibliografia]].
+
+---
 
 ↑ [Regiony](/regiony/) | ← [łęczycko-sieradzkie](/regiony/leczycko-sieradzkie/) | [rawsko-opoczyńskie](/regiony/rawsko-opoczynskie/) →
 

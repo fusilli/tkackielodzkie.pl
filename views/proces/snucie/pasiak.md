@@ -16,3 +16,7 @@ O tym, jak proces ten wygląda w szczegółach, opowiadają poniższe filmy.
 {% youtube "xcS2uORK_Yk", "Snucie pasiaka – część I" %}
 
 {% youtube "5FjWOqbqs6U", "Snucie pasiaka – część II" %}
+
+---
+
+↑ [Snucie](/proces/snucie/) | [Krajka](/proces/snucie/krajka/) →

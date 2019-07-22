@@ -7,4 +7,6 @@ title: Proces
 - → [Snucie](/proces/snucie)
 - → [Tkanie](/proces/tkanie)
 
+---
+
 ← [Narzędzia](/narzedzia/) | [Słowniczek i bibliografia](/slowniczek-i-bibliografia/) →

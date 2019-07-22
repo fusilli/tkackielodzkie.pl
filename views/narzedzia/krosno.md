@@ -2,6 +2,7 @@
 layout: base
 title: Krosno
 ---
+
 W tkaninie ludowej stosuje się krosna ręczne poziome (określane też mianem warsztatów tkackich). W pojedynczych przypadkach zdarza się wykorzystywanie do krajek bardka – deseczki tkackiej czy tabliczek, ale to krosno jest podstawowym sprzętem tkackim. Umożliwia ono bowiem tworzenie tkaniny o dużej szerokości i długości.
 
 Funkcjonowanie krosna najłatwiej będzie zrozumieć, jeśli za Zofią Krzeptowską i Józefem Sypniewskim [[25][bibliografia]] rozłożymy je na „grupy zadaniowe”:
@@ -67,6 +68,8 @@ Dodatkowo, płochy różnią się też od siebie materiałem, z którego wykonan
 {% foto "krosno11.jpg", "Bidło przy pracy i różne typy płoch" %}
 
 Przy szerokich krosnach, nastawionych na dużą produktywność, pojawia się także, połączone z bidłem, urządzenie przerzutowe. Składa się ono z dwóch skrzyneczek umocowanych po dwóch stronach bidła, między którymi przerzucane jest czółenko oraz mechanizmu przerzutowego. Umożliwia ona przerzucanie czółenka z wątkiem w sposób wymagający mniej wysiłku i sprawniejszy niż przy przerzucaniu ręcznym. W trakcie badań terenowych podobne urządzenia znaleźliśmy w jednym z zakładów w Opocznie, produkujących tkaniny komercyjnie – w domowych warsztatach urządzeń takich nie namierzyliśmy.
+
+---
 
 ↑ [Narzędzia](/narzedzia/) | [Snowadło](/narzedzia/snowadlo/) →
 

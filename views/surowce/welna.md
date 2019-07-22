@@ -2,6 +2,7 @@
 layout: base
 title: Wełna
 ---
+
 Wełna, w przeciwieństwie do innych surowców wykorzystywanych w polskim tkactwie tradycyjnym, stanowi włókno pochodzenia zwierzęcego. Prawdopodobnie znana była człowiekowi już kilka tysięcy lat p.n.e., natomiast w Polsce co najmniej od XI w., jak wynika z wykopalisk archeologicznych [[19][bibliografia]].
 
 Ze względów technologicznych wełnę można podzielić na zgrzebną i czesankową.
@@ -33,6 +34,8 @@ Z procesów dotyczących obróbki już nie samej przędzy wełnianej, a samodzia
 
 {% foto "welna5.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 {% foto "welna6.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
+---
 
 ↑ [Surowce](/surowce/) | ← [Len](/surowce/len/) | [Bawełna](/surowce/bawelna/) →
 

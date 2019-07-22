@@ -25,4 +25,6 @@ Swą przygodę z tkactwem zaczęła od rekonstrukcji historycznej i wykonywania 
 
 {% foto "tworczynie3.jpg", "Liliana Misiak-Kuźbik" %}
 
+---
+
 ← [Słowniczek i bibliografia](/slowniczek-i-bibliografia/) | [O nas](/o-nas/) →
