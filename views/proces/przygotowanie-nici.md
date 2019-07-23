@@ -45,7 +45,7 @@ W kołowrotku nawijanie następuje poprzez wykorzystanie ruchu obrotowego częś
 
 {% youtube "ASbVc12TUg8" %}
 
-Tak przygotowana przędza mogła już być podstawą dalszych prac: [snucia](/proces/snucie) i [tkania](/proces/tkanie).
+Tak przygotowana przędza mogła już być podstawą dalszych prac: [snucia](/proces/snucie/#main) i [tkania](/proces/tkanie/#main).
 
 ---
 

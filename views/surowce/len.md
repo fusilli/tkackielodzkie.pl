@@ -45,7 +45,7 @@ Lepsze jakościowo, dłuższe włókna szły na płótno pacześne, używane jak
 
 Najdelikatniejsze, cieniutkie włókna stosowano z kolei do wyrobu koszul i chustek. Dla uzyskania większej gęstości, tkało się je często na czterech nicielnicach, z nici bielonych w motkach [[12][bibliografia]].
 
-Wraz z rewolucją przemysłową, na wieś zaczyna przedostawać się bawełna. Początkowo, ze względu na cenę stosowana była bardziej jako dekoracyjny dodatek do lnu, a z czasem wykorzystywana coraz intensywniej [patrz: [Bawełna](#bawe%C5%82na)].
+Wraz z rewolucją przemysłową, na wieś zaczyna przedostawać się bawełna. Początkowo, ze względu na cenę stosowana była bardziej jako dekoracyjny dodatek do lnu, a z czasem wykorzystywana coraz intensywniej [patrz: [Bawełna](/surowce/bawelna/#main)].
 
 Obecnie, nici lniane nie są dostępne aż tak powszechnie jak niegdyś, a w dodatku ich cena jest wyższa niż bawełnianych. Ciągle można je jednak nabyć. m.in. w sprzedaży internetowej (np.: [grzanpol.com.pl](http://grzanpol.com.pl), [linenmouse.com](http://www.linenmouse.com), [sojka.net.pl](http://www.sojka.net.pl)).
 

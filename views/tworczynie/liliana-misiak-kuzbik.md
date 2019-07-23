@@ -9,4 +9,4 @@ Swą przygodę z tkactwem zaczęła od rekonstrukcji historycznej i wykonywania 
 
 ---
 
-↑  [Twórczynie](/tworczynie/) | ← [Marianna Kowalczyk](/tworczynie/marianna-kowalczyk/)
+↑  [Twórczynie](/tworczynie/#main) | ← [Marianna Kowalczyk](/tworczynie/marianna-kowalczyk/#main)

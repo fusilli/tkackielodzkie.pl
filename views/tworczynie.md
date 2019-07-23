@@ -9,4 +9,4 @@ title: Twórczynie
 
 ---
 
-← [Słowniczek i bibliografia](/slowniczek-i-bibliografia/) | [O nas](/o-nas/) →
+← [Słowniczek i bibliografia](/slowniczek-i-bibliografia/#main) | [O nas](/o-nas/#main) →
