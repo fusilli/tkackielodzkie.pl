@@ -33,6 +33,6 @@ W przeciwieństwie do pasiaków, kraciaki miały jedną dominującą tonację, n
 
 ---
 
-↑ [Regiony](/regiony/) | ← [łęczycko-sieradzki](/regiony/leczycko-sieradzki/) | [rawsko-opoczyński](/regiony/rawsko-opoczynski/) →
+↑ [Regiony](/regiony/#main) | ← [łęczycko-sieradzki](/regiony/leczycko-sieradzki/#main) | [rawsko-opoczyński](/regiony/rawsko-opoczynski/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

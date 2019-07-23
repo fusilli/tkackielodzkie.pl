@@ -28,4 +28,4 @@ title: Słowniczek i bibliografia
 
 ---
 
-← [Proces](/proces/) | [Twórczynie](/tworczynie/) →
+← [Proces](/proces/#main) | [Twórczynie](/tworczynie/#main) →

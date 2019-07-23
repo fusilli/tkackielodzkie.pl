@@ -7,4 +7,4 @@ title: Tkaniny wielonicielnicowe
 
 ---
 
-↑ [Tkanie](/proces/tkanie/) | ← [Kraciak](/proces/tkanie/kraciak/)
+↑ [Tkanie](/proces/tkanie/#main) | ← [Kraciak](/proces/tkanie/kraciak/#main)

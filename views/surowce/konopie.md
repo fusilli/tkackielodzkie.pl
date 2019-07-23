@@ -25,6 +25,6 @@ Obecnie konopie przeżywają w Polsce swój renesans, choć ciągle jeszcze nie 
 
 ---
 
-↑ [Surowce](/surowce/) | ← [Bawełna](/surowce/bawelna/)
+↑ [Surowce](/surowce/#main) | ← [Bawełna](/surowce/bawelna/#main)
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

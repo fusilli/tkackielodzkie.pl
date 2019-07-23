@@ -28,7 +28,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("youtube", (url, podpis = "") => {
-    return `<figure><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="//www.youtube.com/embed/${url}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe></div>${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
+    return `<figure><div class="relative h-0 overflow-hidden" style="padding-bottom: 56.25%;"><iframe src="//www.youtube.com/embed/${url}" class="absolute top-0 left-0 w-full h-full border-0" allowfullscreen></iframe></div>${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
   if ( process.env.NODE_ENV !== "development" ) {

@@ -41,4 +41,4 @@ O tym, jak przygotować osnowę na krajkę i nałożyć ją na krosno, opowiada 
 
 ---
 
-↑ [Snucie](/proces/snucie/) | ← [Pasiak](/proces/snucie/pasiak/) | [Kraciak](/proces/snucie/kraciak/) →
+↑ [Snucie](/proces/snucie/#main) | ← [Pasiak](/proces/snucie/pasiak/#main) | [Kraciak](/proces/snucie/kraciak/#main) →

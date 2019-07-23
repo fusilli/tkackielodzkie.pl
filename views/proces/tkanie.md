@@ -21,13 +21,13 @@ Każde utkane płótno musi być też w odpowiedni sposób zakończone (co w zal
 
 U nas proces tkania można prześledzić na przykładzie:
 
-- → [Pasiaka](/proces/tkanie/pasiak)
-- → [Krajki](/proces/tkanie/krajka)
-- → [Kraciaka](/proces/tkanie/kraciak)
-- → [Tkanin wielonicielnicowych](/proces/tkanie/tkaniny-wielonicielnicowe)
+- → [Pasiaka](/proces/tkanie/pasiak/#main)
+- → [Krajki](/proces/tkanie/krajka/#main)
+- → [Kraciaka](/proces/tkanie/kraciak/#main)
+- → [Tkanin wielonicielnicowych](/proces/tkanie/tkaniny-wielonicielnicowe/#main)
 
 ---
 
-↑ [Proces](/proces/) | ← [Snucie](/proces/snucie/)
+↑ [Proces](/proces/#main) | ← [Snucie](/proces/snucie/#main)
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

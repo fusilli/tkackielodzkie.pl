@@ -25,4 +25,4 @@ Jak wygląda tkanie w praktyce, można zobaczyć poniżej.
 
 ---
 
-↑ [Tkanie](/proces/tkanie/) | ← [Pasiak](/proces/tkanie/pasiak/) | [Kraciak](/proces/tkanie/kraciak/) →
+↑ [Tkanie](/proces/tkanie/#main) | ← [Pasiak](/proces/tkanie/pasiak/#main) | [Kraciak](/proces/tkanie/kraciak/#main) →

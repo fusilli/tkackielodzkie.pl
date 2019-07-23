@@ -7,4 +7,4 @@ title: Snowadło
 
 ---
 
-↑ [Narzędzia](/narzedzia/) | ← [Krosno](/narzedzia/krosno/) | [Motowidło](/narzedzia/motowidlo/) →
+↑ [Narzędzia](/narzedzia/#main) | ← [Krosno](/narzedzia/krosno/#main) | [Motowidło](/narzedzia/motowidlo/#main) →

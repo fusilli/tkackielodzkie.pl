@@ -3,11 +3,11 @@ layout: base
 title: Surowce
 ---
 
-- → [Len](/surowce/len)
-- → [Wełna](/surowce/welna)
-- → [Bawełna](/surowce/bawelna)
-- → [Konopie](/surowce/konopie)
+- → [Len](/surowce/len/#main)
+- → [Wełna](/surowce/welna/#main)
+- → [Bawełna](/surowce/bawelna/#main)
+- → [Konopie](/surowce/konopie/#main)
 
 ---
 
-← [Regiony](/regiony/) | [Narzędzia](/narzedzia/) →
+← [Regiony](/regiony/#main) | [Narzędzia](/narzedzia/#main) →

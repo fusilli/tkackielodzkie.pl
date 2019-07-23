@@ -7,4 +7,4 @@ title: Cierlice/międlice
 
 ---
 
-↑ [Narzędzia](/narzedzia/) | ← [Kołowrotek](/narzedzia/kolowrotek/)
+↑ [Narzędzia](/narzedzia/#main) | ← [Kołowrotek](/narzedzia/kolowrotek/#main)

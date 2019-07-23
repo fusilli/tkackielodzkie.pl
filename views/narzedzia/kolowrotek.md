@@ -7,4 +7,4 @@ title: Kołowrotek
 
 ---
 
-↑ [Narzędzia](/narzedzia/) | ← [Motowidło](/narzedzia/motowidlo/) | [Cierlice/międlice](/narzedzia/cierlice-miedlice/) →
+↑ [Narzędzia](/narzedzia/#main) | ← [Motowidło](/narzedzia/motowidlo/#main) | [Cierlice/międlice](/narzedzia/cierlice-miedlice/#main) →

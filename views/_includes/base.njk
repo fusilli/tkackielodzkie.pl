@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{% if page.url != "/" %}{{ title }} – {% endif %}Tkackie Łódzkie</title>
   <link rel="stylesheet" href="/assets/main.css">
@@ -14,17 +15,17 @@
     {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
     <{{ h1or2 }} class="text-center"><a class="site-title outline-none leading-none block" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
   </header>
-  <nav class="text-center lg:text-lg xl:text-xl px-4">
+  <nav class="text-center lg_text-lg xl_text-xl px-4">
     <ul>
       {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}
       <li class="menu-item inline"><a href="{{ item.url }}" class="{{ "active " if active }} font-bold leading-loose tracking-wider uppercase outline-none">{{ item.title | safe }}</a></li>
       {% endfor %}
     </ul>
   </nav>
-  <div class="wzorek mt-16 pt-8 pb-24 lg:py-32">
-  <main class="text-xl md:text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
-    {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-4xl md:text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
-    <div class="px-8 sm:px-16">
+  <div class="wzorek mt-16 pt-8 pb-24 lg_py-32">
+  <main id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
+    {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-4xl md_text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
+    <div class="px-4 sm_px-16">
       {% block mapa %}
       {% endblock %}
       {{ content | cudzyslowy | sierotki | safe }}
@@ -32,6 +33,6 @@
   </main>
   </div>
   <div class="zygzak"></div>
-  <footer class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover:border-pomaranczowy focus:border-pomaranczowy">Regio Centrum</a></footer>
+  <footer class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover_border-pomaranczowy focus_border-pomaranczowy">Regio Centrum</a></footer>
 </body>
 </html>

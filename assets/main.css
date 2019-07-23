@@ -93,9 +93,6 @@ main {
     background-color: theme('colors.pomaranczowy');
     z-index: -1;
   }
-  ol {
-    list-style: decimal;
-  }
   hr {
     @apply my-16 border border-dashed border-gray-400;
   }

@@ -35,6 +35,6 @@ Zmieniające się wzory na tkaninach były związane z ewolucją kolorystyki tka
 
 ---
 
-↑ [Regiony](/regiony/) | ← [łowicki](/regiony/lowicki/) | [piotrkowski](/regiony/piotrkowski/) →
+↑ [Regiony](/regiony/#main) | ← [łowicki](/regiony/lowicki/#main) | [piotrkowski](/regiony/piotrkowski/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

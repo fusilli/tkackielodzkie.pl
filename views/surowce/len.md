@@ -51,6 +51,6 @@ Obecnie, nici lniane nie są dostępne aż tak powszechnie jak niegdyś, a w dod
 
 ---
 
-↑ [Surowce](/surowce/) | [Wełna](/surowce/welna/) →
+↑ [Surowce](/surowce/#main) | [Wełna](/surowce/welna/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

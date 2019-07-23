@@ -15,6 +15,6 @@ Współcześnie różnice regionalne ulegają zatarciu i przestają być widoczn
 
 ---
 
-← [Rys historyczny](/rys-historyczny/) | [Regiony](/regiony/) →
+← [Rys historyczny](/rys-historyczny/#main) | [Regiony](/regiony/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

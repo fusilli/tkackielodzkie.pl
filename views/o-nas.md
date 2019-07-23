@@ -9,4 +9,4 @@ title: O nas
 
 ---
 
-← [Twórczynie](/tworczynie/) 
+← [Twórczynie](/tworczynie/#main) 

@@ -41,13 +41,13 @@ zostaje następnie nawinięta na wał nadawczy krosna (nowój), przewleczona prz
 
 Choć sam schemat snucia jest dość zbliżony, różni się on szczegółami w zależności od tego, na jaki splot i wzór tkaniny i funkcję się zdecydujemy i co za tym idzie, jaka będzie jej szerokość, ilu nicielnic użyjemy do osnucia, a wreszcie czy osnowa będzie jednobarwna, czy kolorowa. Różnice te są widoczne w poniższych filmach:
 
-- → [Pasiak](/proces/snucie/pasiak)
-- → [Krajka](/proces/snucie/krajka)
-- → [Kraciak](/proces/snucie/kraciak)
-- → [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe)
+- → [Pasiak](/proces/snucie/pasiak/#main)
+- → [Krajka](/proces/snucie/krajka/#main)
+- → [Kraciak](/proces/snucie/kraciak/#main)
+- → [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe/#main)
 
 ---
 
-↑ [Proces](/proces/) | ← [Przygotowanie nici](/proces/przygotowanie-nici/) | [Tkanie](/proces/tkanie/) →
+↑ [Proces](/proces/#main) | ← [Przygotowanie nici](/proces/przygotowanie-nici/#main) | [Tkanie](/proces/tkanie/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

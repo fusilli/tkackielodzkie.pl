@@ -3,10 +3,10 @@ layout: base
 title: Proces
 ---
 
-- → [Przygotowanie nici](/proces/przygotowanie-nici)
-- → [Snucie](/proces/snucie)
-- → [Tkanie](/proces/tkanie)
+- → [Przygotowanie nici](/proces/przygotowanie-nici/#main)
+- → [Snucie](/proces/snucie/#main)
+- → [Tkanie](/proces/tkanie/#main)
 
 ---
 
-← [Narzędzia](/narzedzia/) | [Słowniczek i bibliografia](/slowniczek-i-bibliografia/) →
+← [Narzędzia](/narzedzia/#main) | [Słowniczek i bibliografia](/slowniczek-i-bibliografia/#main) →

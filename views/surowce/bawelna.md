@@ -7,6 +7,6 @@ title: Bawełna
 
 ---
 
-↑ [Surowce](/surowce/) | ← [Wełna](/surowce/welna/) | [Konopie](/surowce/konopie/) →
+↑ [Surowce](/surowce/#main) | ← [Wełna](/surowce/welna/#main) | [Konopie](/surowce/konopie/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

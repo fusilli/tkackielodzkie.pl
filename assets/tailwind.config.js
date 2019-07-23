@@ -34,5 +34,6 @@ module.exports = {
         'jasnozielony': '#218d41'
       }
     }
-  }
+  },
+  separator: '_'
 }

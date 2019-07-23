@@ -49,6 +49,6 @@ Tak przygotowana przędza mogła już być podstawą dalszych prac: [snucia](/pr
 
 ---
 
-↑ [Proces](/proces/) | [Snucie](/proces/snucie/) →
+↑ [Proces](/proces/#main) | [Snucie](/proces/snucie/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia

@@ -19,4 +19,4 @@ O tym, jak proces ten wygląda w szczegółach, opowiadają poniższe filmy.
 
 ---
 
-↑ [Snucie](/proces/snucie/) | [Krajka](/proces/snucie/krajka/) →
+↑ [Snucie](/proces/snucie/#main) | [Krajka](/proces/snucie/krajka/#main) →

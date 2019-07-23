@@ -7,4 +7,4 @@ title: Tkaniny wielonicielnicowe
 
 ---
 
-↑ [Snucie](/proces/snucie/) | ← [Kraciak](/proces/snucie/kraciak/)
+↑ [Snucie](/proces/snucie/#main) | ← [Kraciak](/proces/snucie/kraciak/#main)

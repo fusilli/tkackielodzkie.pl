@@ -7,4 +7,4 @@ title: Motowidło
 
 ---
 
-↑ [Narzędzia](/narzedzia/) | ← [Snowadło](/narzedzia/snowadlo/) | [Kołowrotek](/narzedzia/kolowrotek/) →
+↑ [Narzędzia](/narzedzia/#main) | ← [Snowadło](/narzedzia/snowadlo/#main) | [Kołowrotek](/narzedzia/kolowrotek/#main) →

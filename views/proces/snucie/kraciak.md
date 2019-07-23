@@ -23,6 +23,6 @@ Zaproponowana przez nas tkanina kraciasta ma zarówno osnowę jak i wątek wełn
 
 ---
 
-↑ [Snucie](/proces/snucie/) | ← [Krajka](/proces/snucie/krajka/) | [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe) →
+↑ [Snucie](/proces/snucie/#main) | ← [Krajka](/proces/snucie/krajka/#main) | [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe/#main) →
 
 [bibliografia]: /slowniczek-i-bibliografia/#bibliografia
