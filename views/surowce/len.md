@@ -53,4 +53,4 @@ Obecnie, nici lniane nie są dostępne aż tak powszechnie jak niegdyś, a w dod
 
 ↑ [Surowce](/surowce/#main) | [Wełna](/surowce/welna/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

@@ -25,4 +25,4 @@ Jednocześnie pojawia się nurt rzemiosła miejskiego, w ramach którego osoby w
 
 [Województwo łódzkie](/wojewodztwo-lodzkie/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

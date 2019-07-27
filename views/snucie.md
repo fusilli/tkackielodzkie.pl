@@ -23,7 +23,7 @@ Jak zwracają uwagę eksperci: „Od doboru przeprowadzonego procesu snucia zale
 
 Rzeczywiście – luźne nitki w osnowie będą powodowały nierównomierne naprężenie gotowej tkaniny; sąsiadujące nitki przełożone przez tę samą nicielnicę spowodują „wychodzenie” fragmentu osnowy spod nici wątku, a błędów, jakie można popełnić jest znacznie więcej.
 
-Nic dziwnego, że o ile tkactwem zajmowała się na wsi niemal każda gospodyni, o tyle snucie było domeną niewielu. Stąd wymagało często odwołania się do pomocy bardziej doświadczonej sąsiadki [[23][bibliografia]]. W trakcie naszych badań terenowych mieliśmy dużo szczęścia, bo udało nam się znaleźć w Brzustówku nie tylko tkaczkę, ale i snowaczkę (zobaczycie ten mistrzowski duet w [filmie](/proces/snucie) :-).
+Nic dziwnego, że o ile tkactwem zajmowała się na wsi niemal każda gospodyni, o tyle snucie było domeną niewielu. Stąd wymagało często odwołania się do pomocy bardziej doświadczonej sąsiadki [[23][bibliografia]]. W trakcie naszych badań terenowych mieliśmy dużo szczęścia, bo udało nam się znaleźć w Brzustówku nie tylko tkaczkę, ale i snowaczkę (zobaczycie ten mistrzowski duet w [filmie](/snucie) :-).
 
 W tkactwie tradycyjnym snucie przeprowadza się przy użyciu specjalnego urządzenia – snowadła (snuwadla, snuwadel, snowadel), które ma zwykle postać dwóch skrzyżowanych prostopadle ram, umieszczonych na obrotowej osi.
 
@@ -41,13 +41,13 @@ zostaje następnie nawinięta na wał nadawczy krosna (nowój), przewleczona prz
 
 Choć sam schemat snucia jest dość zbliżony, różni się on szczegółami w zależności od tego, na jaki splot i wzór tkaniny i funkcję się zdecydujemy i co za tym idzie, jaka będzie jej szerokość, ilu nicielnic użyjemy do osnucia, a wreszcie czy osnowa będzie jednobarwna, czy kolorowa. Różnice te są widoczne w poniższych filmach:
 
-- → [Pasiak](/proces/snucie/pasiak/#main)
-- → [Krajka](/proces/snucie/krajka/#main)
-- → [Kraciak](/proces/snucie/kraciak/#main)
-- → [Tkaniny wielonicielnicowe](/proces/snucie/tkaniny-wielonicielnicowe/#main)
+- → [Pasiak](/snucie/pasiak/#main)
+- → [Krajka](/snucie/krajka/#main)
+- → [Kraciak](/snucie/kraciak/#main)
+- → [Tkaniny wielonicielnicowe](/snucie/tkaniny-wielonicielnicowe/#main)
 
 ---
 
-↑ [Proces](/proces/#main) | ← [Przygotowanie nici](/proces/przygotowanie-nici/#main) | [Tkanie](/proces/tkanie/#main) →
+← [Przygotowanie nici](/przygotowanie-nici/#main) | [Tkanie](/tkanie/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

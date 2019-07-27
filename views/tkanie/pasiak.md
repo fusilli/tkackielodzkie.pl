@@ -23,6 +23,6 @@ Tkanie pasiaka w praktyce wygląda natomiast tak…
 
 ---
 
-↑ [Tkanie](/proces/tkanie/#main) | [Krajka](/proces/tkanie/krajka/#main) →
+↑ [Tkanie](/tkanie/#main) | [Krajka](/tkanie/krajka/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

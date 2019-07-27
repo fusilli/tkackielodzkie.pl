@@ -1,38 +1,92 @@
 [
   {
-    "title": "Rys&nbsp;historyczny",
-    "url": "/rys-historyczny/"
+    "title": "Tkackie Łódzkie",
+    "subpages": [
+      {
+        "title": "Rys&nbsp;historyczny",
+        "url": "/rys-historyczny/#main"
+      },
+      {
+        "title": "Woj.&nbsp;łódzkie",
+        "url": "/wojewodztwo-lodzkie/#main"
+      },
+      {
+        "title": "Regiony",
+        "url": "/regiony/#main"
+      }
+    ]
   },
   {
-    "title": "Woj.&nbsp;łódzkie",
-    "url": "/wojewodztwo-lodzkie/"
-  },
-  {
-    "title": "Regiony",
-    "url": "/regiony/"
-  },
-  {
-    "title": "Surowce",
-    "url": "/surowce/"
-  },
-  {
-    "title": "Narzędzia",
-    "url": "/narzedzia/"
+    "title": "Surowce i narzędzia",
+    "subpages": [
+      {
+        "title": "Surowce",
+        "url": "/surowce/#main"
+      },
+      {
+        "title": "Narzędzia",
+        "url": "/narzedzia/#main"
+      }
+    ]
   },
   {
     "title": "Proces",
-    "url": "/proces/"
+    "subpages": [
+      {
+        "title": "Przygotowanie nici",
+        "url": "/przygotowanie-nici/#main"
+      },
+      {
+        "title": "Snucie",
+        "url": "/snucie/#main"
+      },
+      {
+        "title": "Tkanie",
+        "url": "/tkanie/#main"
+      }
+    ]
   },
   {
-    "title": "Słowniczek",
-    "url": "/slowniczek-i-bibliografia/"
+    "title": "Słowniczek i bibliografia",
+    "subpages": [
+      {
+        "title": "Słowniczek",
+        "url": "/slowniczek/#main"
+      },
+      {
+        "title": "Bibliografia",
+        "url": "/bibliografia/#main"
+      }
+    ]
   },
   {
     "title": "Twórczynie",
-    "url": "/tworczynie/"
+    "subpages": [
+      {
+        "title": "Marianna Madej",
+        "url": "/marianna-madej/#main"
+      },
+      {
+        "title": "Marianna Kowalczyk",
+        "url": "/marianna-kowalczyk/#main"
+      },
+      {
+        "title": "Liliana Misiak-Kuźbik",
+        "url": "/liliana-misiak-kuzbik/#main"
+      }
+    ]
   },
   {
     "title": "O&nbsp;nas",
-    "url": "/o-nas/"
+    "subpages": [
+      {
+        "title": "O&nbsp;projekcie",
+        "url": "/o-projekcie/#main"
+      },
+      {
+        "title": "REGIO",
+        "url": "/regio/#main"
+      }
+    ]
   }
 ]

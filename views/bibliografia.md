@@ -1,11 +1,7 @@
 ---
 layout: base
-title: Słowniczek i bibliografia
+title: Bibliografia
 ---
-
-## Słowniczek
-
-## Bibliografia
 
 1. Woźniak Maria, *Problemy wytwórczości ludowe w pracach zakładu badawczego związku Cepelia*, „Etnografia Polska” t. XIX.
 2. Królikowska Elżbieta, *Tkactwo ludowe*, w: *Piękno użyteczne czy piękno ginące*, Łódź 1997.
@@ -28,4 +24,4 @@ title: Słowniczek i bibliografia
 
 ---
 
-← [Proces](/proces/#main) | [Twórczynie](/tworczynie/#main) →
+← [Słowniczek](/slowniczek/#main) | [Marianna Madej](/marianna-madej/#main) →

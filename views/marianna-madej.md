@@ -9,4 +9,4 @@ Mieszka w Brzustówku k. Opoczna. Z tkactwem związana całe życie. Na potrzeby
 
 ---
 
-↑  [Twórczynie](/tworczynie/#main) | [Marianna Kowalczyk](/tworczynie/marianna-kowalczyk/#main) →
+← [Bibliografia](/bibliografia/#main) | [Marianna Kowalczyk](/marianna-kowalczyk/#main) →

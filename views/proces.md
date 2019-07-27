@@ -3,9 +3,9 @@ layout: base
 title: Proces
 ---
 
-- → [Przygotowanie nici](/proces/przygotowanie-nici/#main)
-- → [Snucie](/proces/snucie/#main)
-- → [Tkanie](/proces/tkanie/#main)
+- → [Przygotowanie nici](/przygotowanie-nici/#main)
+- → [Snucie](/snucie/#main)
+- → [Tkanie](/tkanie/#main)
 
 ---
 

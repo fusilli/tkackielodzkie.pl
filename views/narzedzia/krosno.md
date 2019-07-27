@@ -73,4 +73,4 @@ Przy szerokich krosnach, nastawionych na dużą produktywność, pojawia się ta
 
 ↑ [Narzędzia](/narzedzia/#main) | [Snowadło](/narzedzia/snowadlo/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

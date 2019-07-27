@@ -21,4 +21,4 @@ O ile tkaniny odzieżowe odróżniają wieluńskie od sąsiedzkich ziem, o tyle 
 
 ↑ [Regiony](/regiony/#main) | ← [piotrkowski](/regiony/piotrkowski/#main)
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

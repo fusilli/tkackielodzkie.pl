@@ -27,4 +27,4 @@ Tkaniny dekoracyjne użytkowe były znacznie uboższe w swoim wyglądzie. Podsta
 
 ↑ [Regiony](/regiony/#main) | ← [rawsko-opoczyński](/regiony/rawsko-opoczynski/#main) | [wieluński](/regiony/wielunski/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

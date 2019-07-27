@@ -39,4 +39,4 @@ Z procesów dotyczących obróbki już nie samej przędzy wełnianej, a samodzia
 
 ↑ [Surowce](/surowce/#main) | ← [Len](/surowce/len/#main) | [Bawełna](/surowce/bawelna/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

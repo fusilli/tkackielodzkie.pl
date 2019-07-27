@@ -29,4 +29,4 @@ Ze względu na szybki zanik stroju kolorystyka łęczyckich tkanin nie rozwinę�
 
 ↑ [Regiony](/regiony/#main) | [łowicki](/regiony/lowicki/#main) →
 
-[bibliografia]: /slowniczek-i-bibliografia/#bibliografia
+[bibliografia]: /bibliografia/#main

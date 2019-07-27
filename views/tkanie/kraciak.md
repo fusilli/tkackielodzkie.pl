@@ -16,4 +16,4 @@ Jak przebiega tkanie kraciaka, można zobaczyć w filmie.
 
 ---
 
-↑ [Tkanie](/proces/tkanie/#main) | ← [Krajka](/proces/tkanie/krajka/#main) | [Tkaniny wielonicielnicowe](/proces/tkanie/tkaniny-wielonicielnicowe/#main) →
+↑ [Tkanie](/tkanie/#main) | ← [Krajka](/tkanie/krajka/#main) | [Tkaniny wielonicielnicowe](/tkanie/tkaniny-wielonicielnicowe/#main) →

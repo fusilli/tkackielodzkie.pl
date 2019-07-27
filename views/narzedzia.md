@@ -11,4 +11,4 @@ title: Narzędzia
 
 ---
 
-← [Surowce](/surowce/#main) | [Proces](/proces/#main) →
+← [Surowce](/surowce/#main) | [Proces](/#main) →

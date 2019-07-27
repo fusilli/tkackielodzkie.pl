@@ -122,32 +122,77 @@ main {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.menu-item:not(:last-child)::after {
-  content: " #";
-  color: #000;
-  margin: 0 .25em;
-  color: theme('colors.pomaranczowy');
+nav ul li a {
+  @apply pointer-events-none;
 }
-.menu-item a {
-  position: relative;
+nav ul li ul li a {
+  @apply pointer-events-auto;
 }
-
-.menu-item a::before {
+@media (min-width: 1060px) {
+  #menu-button {
+    @apply hidden;
+  }
+  #menu {
+    @apply block;
+  }
+  nav ul li a {
+    @apply pointer-events-auto;
+  }
+  nav ul li ul {
+    @apply invisible opacity-0 hidden;
+  }
+  ul li:focus-within > ul,
+  ul li ul:focus,
+  nav ul li:hover > ul,
+  ul li ul:hover {
+    @apply visible opacity-100 block;
+  }
+  nav ul li {
+    @apply inline-block;
+  }
+  nav ul li ul {
+    z-index: 2;
+    left: -1rem;
+    @apply absolute text-left;
+  }
+  nav ul li:last-child ul {
+    right: -1rem;
+    @apply left-auto text-right;
+  }
+  nav ul li ul li {
+    width: 10em;
+  }
+  .menu-item:not(:last-child)::after {
+    content: " #";
+    color: #000;
+    margin: 0 .25em;
+    color: theme('colors.pomaranczowy');
+  }
+}
+nav ul li ul li a {
+  text-shadow:
+  -1px -1px 0 theme('colors.gray.200'),  
+   1px -1px 0 theme('colors.gray.200'),
+   -1px 1px 0 theme('colors.gray.200'),
+    1px 1px 0 theme('colors.gray.200');
+    z-index: 1;
+}
+nav ul li ul li a::before {
   content: '';
   position: absolute;
-  bottom: 2px;
+  bottom: 3px;
   left: 0;
   right: 0;
-  height: .25em;
+  height: 2px;
   background-color: theme('colors.rozowy');
   transform-origin: bottom right;
   transform: scaleX(0);
   transition: transform 0.5s ease;
   z-index: -1;
 }
-.menu-item a:hover::before,
-.menu-item a:focus::before,
-.menu-item a.active::before {
+nav ul li ul li a:hover::before,
+nav ul li ul li a:focus::before,
+nav ul li ul li a.active::before {
   transform-origin: bottom left;
   transform: scaleX(1);
 }

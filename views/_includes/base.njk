@@ -9,21 +9,15 @@
   <link rel="stylesheet" href="/assets/main.css">
   <script type="text/javascript" src="/assets/main.js" defer></script>
 </head>
-<body class="font-serif bg-gray-200 text-gray-900">
+<body class="font-serif bg-gray-200 text-gray-900 overflow-x-hidden">
   <div class="wzorek h-4"></div>
-  <header class="pt-16 pb-8">
+  <header role="banner" class="pt-16 pb-8">
     {% if page.url == "/" %}{% set h1or2 = "h1" %}{% else %}{% set h1or2 = "h2" %}{% endif %}
     <{{ h1or2 }} class="text-center"><a class="site-title outline-none leading-none block text-white" href="/">Tkackie Łódzkie</a></{{ h1or2 }}>
   </header>
-  <nav class="text-center lg_text-lg xl_text-xl px-4">
-    <ul>
-      {% for item in menu %}{%- set active = page.url.startsWith(item.url) -%}
-      <li class="menu-item inline"><a href="{{ item.url }}" class="{{ "active " if active }} font-bold leading-loose tracking-wider uppercase outline-none">{{ item.title | safe }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  {% include "nav.njk" %}
   <div class="wzorek mt-16 pt-8 pb-24 lg_py-32">
-  <main id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
+  <main role="main" id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
     {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-4xl md_text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
     <div class="px-4 sm_px-16">
       {% block mapa %}
@@ -33,6 +27,6 @@
   </main>
   </div>
   <div class="zygzak"></div>
-  <footer class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover_border-pomaranczowy focus_border-pomaranczowy">Regio Centrum</a></footer>
+  <footer role="contentinfo" class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover_border-pomaranczowy focus_border-pomaranczowy">Regio Centrum</a></footer>
 </body>
 </html>
