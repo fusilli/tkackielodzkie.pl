@@ -67,6 +67,9 @@ main {
   figcaption {
     margin-top: .5em;
   }
+  img {
+    max-width: 300px;
+  }
   h2 {
     @apply text-3xl text-center font-bold uppercase tracking-wide text-gray-700;
     @media (min-width: 768px) {
@@ -121,6 +124,21 @@ main {
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.site-title:focus {
+  outline: 1px dotted theme('colors.black');
+}
+#menu-button:before {
+  position: absolute;
+  top: 3px;
+  bottom: 3px;
+  left: -1.5em;
+  width: 1em;
+  background: linear-gradient(theme('colors.black') 20%, transparent 20%, transparent 40%, theme('colors.black') 40%, theme('colors.black') 60%, transparent 60%, transparent 80%, theme('colors.black') 80%);
+  content: '';
+}
+#menu-button[aria-expanded="true"] {
+  @apply mb-8;
 }
 nav ul li a {
   @apply pointer-events-none;
@@ -215,6 +233,50 @@ nav ul li ul li a.active::before {
     outline: none;
   }
 
+}
+
+/* Zoom.js */
+img[data-action="zoom"] {
+  cursor: pointer;
+  cursor: -webkit-zoom-in;
+}
+.zoom-img,
+.zoom-img-wrap {
+  position: relative;
+  z-index: 666;
+  -webkit-transition: all 300ms;
+       -o-transition: all 300ms;
+          transition: all 300ms;
+}
+img.zoom-img {
+  cursor: pointer;
+  cursor: -webkit-zoom-out;
+}
+.zoom-overlay {
+  z-index: 420;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  filter: "alpha(opacity=0)";
+  opacity: 0;
+  -webkit-transition:      opacity 300ms ease-in-out;
+       -o-transition:      opacity 300ms ease-in-out;
+          transition:      opacity 300ms ease-in-out;
+}
+.zoom-overlay-open .zoom-overlay {
+  filter: "alpha(opacity=100)";
+  opacity: 1;
+}
+.zoom-overlay-open,
+.zoom-overlay-transitioning {
+  cursor: default;
+}
+.zoom-overlay-transitioning .zoom-overlay {
+  opacity: 0;
 }
 /* purgecss end ignore */
 /* END CUSTOM STYLES  */

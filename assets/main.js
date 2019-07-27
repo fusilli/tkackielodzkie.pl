@@ -9,6 +9,7 @@ import './fonts/alegreya/Alegreya-Italic.woff2';
 import './fonts/alegreya/Alegreya-Bold.woff2';
 import './fonts/alegreya/Alegreya-BoldItalic.woff2';
 import './fonts/alegreya/Alegreya-Black.woff2';
+import './zoom.min.js';
 
 (function() {
 	var menuButton = document.getElementById('menu-button');

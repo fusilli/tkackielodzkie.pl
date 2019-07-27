@@ -1,5 +1,5 @@
 <nav class="text-center text-lg xl_text-xl px-4">
-  <button id="menu-button" class="font-bold uppercase" aria-expanded="false">Menu</button>
+  <button id="menu-button" class="relative font-bold uppercase leading-none" aria-expanded="false">Menu</button>
   <ul id="menu" hidden>
     {% for item in menu %}
     <li class="relative menu-item"><a href="{% if item.url %}{{ item.url }}{% else %}#{% endif %}" class="font-bold leading-loose tracking-wider uppercase outline-none">{{ item.title | safe }}</a>

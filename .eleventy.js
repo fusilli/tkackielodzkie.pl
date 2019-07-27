@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("foto", (file, podpis = "") => {
-    return `<figure><img class="mx-auto" src="/foto/${file}" ${ podpis ? `alt="${podpis}"` : ``} >${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
+    return `<figure><img class="mx-auto" src="/foto/${file}" ${ podpis ? `alt="${podpis}"` : ``} data-action="zoom">${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
   eleventyConfig.addShortcode("youtube", (url, podpis = "") => {
