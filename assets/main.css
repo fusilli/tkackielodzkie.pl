@@ -67,9 +67,6 @@ main {
   figcaption {
     margin-top: .5em;
   }
-  img {
-    max-width: 300px;
-  }
   h2 {
     @apply text-3xl text-center font-bold uppercase tracking-wide text-gray-700;
     @media (min-width: 768px) {
