@@ -18,7 +18,10 @@
   {% include "nav.njk" %}
   <div class="wzorek mt-16 pt-8 pb-24 lg_py-32">
   <main role="main" id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
-    {% if page.url != "/" %}<h1 class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-4xl md_text-6xl leading-tight text-center font-bold p-10 mb-16">{{ title | sierotki | safe }}</h1>{% endif %}
+    <div class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-center font-bold p-10 mb-16">
+    {% if tags %}<p class="m-0">{{ tags }}:</p>{% endif %}
+    {% if page.url != "/" %}<h1 class="text-4xl md_text-6xl leading-tight">{{ title | sierotki | safe }}</h1>{% endif %}
+    </div>
     <div class="px-4 sm_px-16">
       {% block mapa %}
       {% endblock %}

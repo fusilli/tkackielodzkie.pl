@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Krosno
+tags: Narzędzia
 ---
 
 W tkaninie ludowej stosuje się krosna ręczne poziome (określane też mianem warsztatów tkackich). W pojedynczych przypadkach zdarza się wykorzystywanie do krajek bardka – deseczki tkackiej czy tabliczek, ale to krosno jest podstawowym sprzętem tkackim. Umożliwia ono bowiem tworzenie tkaniny o dużej szerokości i długości.

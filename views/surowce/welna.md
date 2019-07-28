@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Wełna
+tags: Surowce
 ---
 
 Wełna, w przeciwieństwie do innych surowców wykorzystywanych w polskim tkactwie tradycyjnym, stanowi włókno pochodzenia zwierzęcego. Prawdopodobnie znana była człowiekowi już kilka tysięcy lat p.n.e., natomiast w Polsce co najmniej od XI w., jak wynika z wykopalisk archeologicznych [[19][bibliografia]].

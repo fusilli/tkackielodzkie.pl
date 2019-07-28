@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Konopie
+tags: Surowce
 ---
 
 Konopie jest włóknem roślinnym. Pochodzi z łyka konopi siewnych (Cannabis sativa L.).

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Przygotowanie nici
+tags: Proces
 ---
 
 Nić uprzędziona niekoniecznie jest już nicią gotową do tkania lub snucia. Wcześniej przechodziła ona jeszcze szereg czynność, mających na celu selekcję przędzy oraz dostosowanie do procesu, któremu miała podlegać.

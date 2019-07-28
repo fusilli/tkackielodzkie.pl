@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Snucie
+tags: Proces
 ---
 
 Snucie jest procesem przygotowawczym przędzy do tkania. Polega na równoległym ułożeniu na danej szerokości, ustalonej liczby nitek osnowy, o równej długości i jednakowym napięciu.

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Motowidło
+tags: Narzędzia
 ---
 
 

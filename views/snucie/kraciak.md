@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Snucie – Kraciak
+title: Kraciak
+tags: Snucie
 ---
 
 Województwo łódzkie to nie Szkocja. Tkaniny w kratę były tutaj znacznie mniej popularne niż pasiaki i znacznie węziej „wyspecjalizowane”. Służyły bowiem głównie do tworzenia tkanin dekoracyjnych, a jeśli już odzieżowych – to męskich (kamizel i kaftanów) [[18][bibliografia]].

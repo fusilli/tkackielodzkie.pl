@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Len
+tags: Surowce
 ---
 
 Włókno lniane stanowi część łykową lnu zwyczajnego (Linum usitatissimum L.).

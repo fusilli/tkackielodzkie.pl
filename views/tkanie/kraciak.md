@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Tkanie – Kraciak
+title: Kraciak
+tags: Tkanie
 ---
 Z racji na to, że kraciak podobnie jak pasiaki tkany był splotem płóciennym, w dwie nicielnice, sam proces tkania nie różni się od tego dotyczącego tkanin pasiastych.
 

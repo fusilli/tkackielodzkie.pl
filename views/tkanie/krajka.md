@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Tkanie – Krajka
+title: Krajka
+tags: Tkanie
 ---
 
 Krajki tkano na krosnach albo na deseczkach tkackich – bardkach [18]. Krosno stanowi ułatwienie w przypadku krajek szerokich, które wymagałyby bardzo dużego bardka i, co za tym idzie, znacznego wysiłku fizycznego tkaczek, by je utrzymać. Również przy długich kilkumetrowych krajkach, krosno ułatwia utrzymanie właściwego naprężenia osnowy oraz jej stopniowe „dostarczanie” tkaczce dzięki przewijaniu przez wały nadawczy i odbiorczy. Krosno mniej się natomiast sprawdza się w przypadku krótszych krajek, bo wówczas czas na przygotowanie osnowy i jej nałożenie na warsztat jest niewspółmierny do tego spędzonego przy bardku. 

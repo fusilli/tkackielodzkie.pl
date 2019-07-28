@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Tkanie – Pasiak
+title: Pasiak
+tags: Tkanie
 ---
 
 Pasiak tkany jest splotem płóciennym, uznawanym za najprostszy możliwy splot (czyli nitka wątku przechodzi naprzemiennie nad jedną i pod kolejną nitką osnowy, jak na rysunku).

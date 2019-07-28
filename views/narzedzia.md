@@ -11,4 +11,4 @@ title: Narzędzia
 
 ---
 
-← [Surowce](/surowce/#main) | [Proces](/#main) →
+← [Surowce](/surowce/#main) | [Przygotowanie nici](/przygotowanie-nici/#main) →

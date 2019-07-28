@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Snucie – Krajka
+title: Krajka
+tags: Snucie
 ---
 
 Choć mogłoby się wydawać, że krajki niewiele się różnią od pasiaków (bo i tu pasy, i tu), to technika tworzenia wzoru jest w przypadku krajki odmienna. O ile w pasiaku wzór jest tworzony poprzez zmianę koloru wątku, a osnowa pozostaje niewidoczna, o tyle w krajkach wzór powstaje osnowowo lub osnowowo-wątkowo. Oznacza to, że główną bohaterką krajki jest osnowa i to jej układ tworzy wielobarwne pasy. Wątek zaś albo pozostaje ukryty albo przeziera znad osnowy w niektórych miejscach, dla wzbogacenia wzoru.

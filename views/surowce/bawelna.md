@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Bawełna
+tags: Surowce
 ---
 
 Włókno bawełny pochodzi z krzewu o tej samej nazwie (łac. Gossypium), na którym pełni rolę miękkiej osłonki dla nasion znajdujących się w torebce nasiennej. W Indiach bawełna uprawiana była już z pewnością 2500 lat p.n.e. i to właśnie bawełna azjatycka była sprowadzana początkowo do Europy. Dopiero w XVIII wieku zaczęto importować bawełnę amerykańską, powodując upowszechnienie się tego surowca w przemyśle włókienniczym na Starym Kontynencie [[19][bibliografia]].

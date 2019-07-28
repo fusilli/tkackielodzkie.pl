@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Tkaniny wielonicielnicowe
+tags: Snucie
 ---
 
 

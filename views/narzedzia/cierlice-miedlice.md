@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Cierlice/międlice
+tags: Narzędzia
 ---
 
 

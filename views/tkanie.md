@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Tkanie
+tags: Proces
 ---
 
 Tworzenie tkaniny na krośnie przebiega tzw. elementarnymi odcinkami. Ma to wiele wspólnego z matematyką, bo również i tutaj odcinek obejmuje część prostej zawartej między dwoma punktami. W tym przypadku prostą jest nić wątku, a jej „brzegowe punkty” to dwa skraje tkaniny. Mówiąc fachowo, elementarny odcinek to fragment wątku przeplatający się z odpowiadającym mu fragmentem osnowy [[25][bibliografia]]. Nie wystarczy zatem dowolnie „przerzucić” odcinek, ale musi się on jeszcze odpowiednio przepleść. Do tego celu służy w krośnie przesmyk (czyli ta wolna przestrzeń, przez którą przerzuca się czółenko z wątkiem).
