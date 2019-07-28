@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Region piotrkowski
+title: piotrkowski
+tags: Regiony
 ---
 
 W XX wieku zasięg etnograficzny tkaniny i stroju piotrkowskiego wyznaczały na północy Tuszyn i Kurowice, na wschodzie rzeka Pilica, zaś na południu i zachodzie miejscowości Głupice, Zawady, Poraj i Ręczno [[5][bibliografia]]. Najszybciej zaginął strój męski. Strój kobiecy przetrwał w nielicznych parafiach (Czarnocin, Wolbórz) do naszych czasów i bywa zakładany przez kobiety na ważniejsze uroczystości kościelne, jednak dziś bardziej przypomina stroje łowickie niż zachowane w muzeach stroje piotrkowskie.

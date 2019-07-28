@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Region wieluński
+title: wieluński
+tags: Regiony
 ---
 
 Powiat wieluński wyznacza południowo-zachodnią granicę obecnego województwa łódzkiego. Jego usytuowanie na granicy Śląska, Małopolski i Wielkopolski sprawiało, że mieszały się tutaj różne regionalne wpływy. Zasięg tkaniny i stroju wieluńskiego obejmował w XX wieku cały dzisiejszy powiat wieluński – bez jego części zachodniej, graniczącej z Wieruszowem, i wschodniej – w stronę Pajęczna.

@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Region łęczycko-sieradzki
+title: łęczycko-sieradzki
+tags: Regiony
 ---
 
 Umowny zasięg etnograficzny łęczyckiego obejmuje: na północy Kłodawę i Krośniewice, na południu Stryków i Górę Bałdrzychowską (powiat poddębicki), na zachodzie zasięg nie jest ustalony, natomiast na wschodzie strój sięgał do wsi Mąkolice i Mirosław (powiat zgierski) [[8][bibliografia]].

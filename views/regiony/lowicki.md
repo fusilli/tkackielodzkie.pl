@@ -1,6 +1,7 @@
 ---
 layout: base
-title: Region łowicki
+title: łowicki
+tags: Regiony
 ---
 
 Powiat łowicki to dziś północno-wschodni kraniec województwa łódzkiego. Historycznie łowickie związane było z Mazowszem (jako część rawskiego). Mieszkańcy łowickiego zwykli nazywać siebie Księżakami – łowickie należało do dóbr biskupów gnieźnieńskich, którzy mieli ambicje książęce. Jako region etnograficzny łowickie obejmuje ziemie na wschodnich krańcach dzisiejszego powiatu kutnowskiego, cały powiat łowicki oraz północno-zachodni fragment powiatu skierniewickiego, sięgający Głuchowa i Lipiec Reymontowskich [[5][bibliografia]]. W niektórych opracowaniach łączy się łowickie z sannickim ze względu na zbliżony strój ludowy obu regionów.
