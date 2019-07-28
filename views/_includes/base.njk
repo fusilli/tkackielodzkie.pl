@@ -17,11 +17,13 @@
   </header>
   {% include "nav.njk" %}
   <div class="wzorek mt-16 pt-8 pb-24 lg_py-32">
-  <main role="main" id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8{% endif %}">
+  <main role="main" id="main" class="text-xl md_text-2xl container max-w-4xl {% if page.url != "/" %}bg-gray-200 pb-8 border-b-3 border-zielony{% endif %}">
+    {% if page.url != "/" %}
     <div class="bg-jasnozielony text-gray-200 border-zielony border-t-16 border-b-8 border-double text-center font-bold p-10 mb-16">
     {% if tags %}<p class="m-0">{{ tags }}:</p>{% endif %}
-    {% if page.url != "/" %}<h1 class="text-4xl md_text-6xl leading-tight">{{ title | sierotki | safe }}</h1>{% endif %}
+      <h1 class="text-4xl md_text-6xl leading-tight">{{ title | sierotki | safe }}</h1>
     </div>
+    {% endif %}
     <div class="px-4 sm_px-16">
       {% block mapa %}
       {% endblock %}
@@ -30,6 +32,13 @@
   </main>
   </div>
   <div class="zygzak"></div>
-  <footer role="contentinfo" class="py-16 text-gray-600 text-center uppercase tracking-wider">&copy;{% rok %} <a href="http://regiocentrum.pl" class="border-b border-gray-600 outline-none border-dashed hover_border-pomaranczowy focus_border-pomaranczowy">Regio Centrum</a></footer>
+  <footer role="contentinfo" class="py-16 text-gray-600 text-center uppercase tracking-wider">
+    <p>&copy;{% rok %} <a href="http://regiocentrum.pl">Regio Centrum</a></p>
+    <p>Projekt został dofinansowany ze&nbsp;środków <br><a href="https://www.gov.pl/web/kultura/">Ministerstwa Kultury i&nbsp;Dziedzictwa Narodowego</a></p>
+    <div class="flex justify-center mt-8">
+      <a href="http://regiocentrum.pl" title="Centrum Inicjatyw na rzecz Rozwoju Regio"><img class="h-16 mx-6" src="/assets/img/regio.svg" alt="Logo Centrum Inicjatyw na rzecz Rozwoju Regio"></a>
+      <a href="https://www.gov.pl/web/kultura/" title="Ministerstwo Kultury i Dziedzictwa Narodowego"><img class="h-16 mx-6" src="/assets/img/mkidn.svg" alt="Logo Ministerstwa Kultury i Dziedzictwa Narodowego"></a>
+    </div>
+  </footer>
 </body>
 </html>

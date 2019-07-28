@@ -229,7 +229,12 @@ nav ul li ul li a.active::before {
   a:active, a:focus {
     outline: none;
   }
-
+}
+footer p a {
+  @apply border-b border-gray-600 outline-none border-dashed;
+  &:hover, &:focus {
+    border-color: theme('colors.pomaranczowy')
+  }
 }
 
 /* Zoom.js */
