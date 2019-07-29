@@ -64,6 +64,10 @@ main {
   p, ul, ol, figure {
     margin: 1.5em 0;
   }
+  figure img {
+    width: 300px;
+    max-width: 100%;
+  }
   figcaption {
     margin-top: .5em;
   }
@@ -73,7 +77,6 @@ main {
       @apply text-4xl
     }
   }
-
   a {
     position: relative;
     z-index: 0;
