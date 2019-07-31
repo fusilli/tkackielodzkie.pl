@@ -124,6 +124,18 @@ main {
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  @media (min-width: 1250px) {
+    font-size: 12vw;
+  }
+  @media (min-width: 1450px) {
+    font-size: 11vw;
+  }
+  @media (min-width: 1600px) {
+    font-size: 10vw;
+  }
+  @media (min-width: 1850px) {
+    font-size: 9vw;
+  }
 }
 .site-title:focus {
   outline: 1px dotted theme('colors.black');
@@ -159,10 +171,12 @@ nav ul li ul li a {
   nav ul li ul {
     @apply invisible opacity-0 hidden;
   }
-  ul li:focus-within > ul,
-  ul li ul:focus,
+  nav ul li:focus-within > ul  {
+    @apply visible opacity-100 block;
+  }
+  nav ul li ul:focus,
   nav ul li:hover > ul,
-  ul li ul:hover {
+  nav ul li ul:hover {
     @apply visible opacity-100 block;
   }
   nav ul li {
