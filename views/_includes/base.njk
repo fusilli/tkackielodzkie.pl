@@ -24,7 +24,7 @@
       <h1 class="text-4xl md_text-6xl leading-tight">{{ title | sierotki | safe }}</h1>
     </div>
     {% endif %}
-    <div class="px-4 sm_px-16">
+    <div class="px-4 sm_px-16{% if page.url == "/realizator-i-partnerzy/" %} realizator-i-partnerzy{% endif %}">
       {% block mapa %}
       {% endblock %}
       {{ content | cudzyslowy | sierotki | safe }}

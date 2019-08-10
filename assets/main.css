@@ -64,6 +64,9 @@ main {
   p, ul, ol, figure {
     margin: 1.5em 0;
   }
+  h2 {
+    margin: 1em 0;
+  }
   ol {
     list-style-type: decimal;
   }
@@ -78,6 +81,9 @@ main {
   }
   figcaption {
     margin-top: .5em;
+  }
+  .realizator-i-partnerzy img {
+    @apply mx-auto py-4;
   }
   h2 {
     @apply text-3xl text-center font-bold uppercase tracking-wide text-gray-700;
