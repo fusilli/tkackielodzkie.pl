@@ -64,9 +64,17 @@ main {
   p, ul, ol, figure {
     margin: 1.5em 0;
   }
+  ol {
+    list-style-type: decimal;
+  }
   figure img {
     width: 300px;
     max-width: 100%;
+  }
+  figure.zespol {
+    img {
+      width: 200px;
+    }
   }
   figcaption {
     margin-top: .5em;
@@ -95,6 +103,11 @@ main {
     height: 2px;
     background-color: theme('colors.pomaranczowy');
     z-index: -1;
+  }
+  a.no-underline::after {
+    content: '';
+    height: 0;
+    background-color: none;
   }
   hr {
     @apply my-16 border border-dashed border-gray-400;

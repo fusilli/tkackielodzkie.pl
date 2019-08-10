@@ -25,8 +25,11 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("foto", (file, podpis = "") => {
-    return `<figure> <img class="mx-auto" src="/foto/600/${file}"  srcset="/foto/900/${file} 900w, /foto/600/${file} 600w, /foto/300/${file} 300w" sizes="(max-width: 320px) 300px, (max-width: 620px) 600px, 100vw"   ${ podpis ? `alt="${podpis}"` : ``} data-action="zoom" loading="lazy"> ${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}
-    </figure>`;
+    return `<figure><img class="mx-auto" src="/foto/600/${file}" srcset="/foto/900/${file} 900w, /foto/600/${file} 600w, /foto/300/${file} 300w" sizes="(max-width: 320px) 300px, (max-width: 620px) 600px, 100vw"   ${ podpis ? `alt="${podpis}"` : ``} data-action="zoom" loading="lazy"> ${ podpis ? `<figcaption class="text-xl text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
+  });
+
+  eleventyConfig.addShortcode("zespol", (file, nazwisko = "", podpis = "") => {
+    return `<figure class="zespol sm_my-2 sm_mr-4 sm_float-left"><img class="m-auto" src="/foto/zespol/${file}" ${ nazwisko ? `alt="${nazwisko}"` : ``} width="200" height="200" loading="lazy"> ${ podpis ? `<figcaption class="text-lg text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
   eleventyConfig.addShortcode("youtube", (url, podpis = "") => {

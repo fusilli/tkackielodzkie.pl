@@ -84,8 +84,12 @@
         "url": "/o-projekcie/#main"
       },
       {
-        "title": "REGIO",
-        "url": "/regio/#main"
+        "title": "Realizator i partnerzy",
+        "url": "/realizator-i-partnerzy/#main"
+      },
+      {
+        "title": "Zespół",
+        "url": "/zespol/#main"
       }
     ]
   }
