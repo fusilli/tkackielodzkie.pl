@@ -19,7 +19,7 @@ module.exports = {
 								extensions: ["html"]
 							}
 						],
-						whitelist: ["hr", "figure", "figcaption", "mx-auto", "text-xl", "text-center","text-gray-600", "relative", "h-0", "overflow-hidden", "absolute", "top-0", "left-0", "w-full", "h-full", "border-0", "text-xl", "text-center", "text-gray-600", "max-w-xs"]
+						whitelist: ["hr", "figure", "figcaption", "mx-auto", "text-xl", "text-center","text-gray-600", "relative", "h-0", "overflow-hidden", "absolute", "top-0", "left-0", "w-full", "h-full", "border-0", "text-lg", "text-xl", "max-w-xs", "sm_my-2", "sm_mr-4", "sm_float-left", "zespol"]
 					})
 			  ]
 			: []) //If Development, do not use PurgeCSS

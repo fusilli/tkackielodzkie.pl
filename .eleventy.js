@@ -29,7 +29,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("zespol", (file, nazwisko = "", podpis = "") => {
-    return `<figure class="zespol sm_my-2 sm_mr-4 sm_float-left"><img class="m-auto" src="/foto/zespol/${file}" ${ nazwisko ? `alt="${nazwisko}"` : ``} width="200" height="200" loading="lazy"> ${ podpis ? `<figcaption class="text-lg text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
+    return `<figure class="zespol sm_my-2 sm_mr-4 sm_float-left"><img class="mx-auto" src="/foto/zespol/${file}" ${ nazwisko ? `alt="${nazwisko}"` : ``} width="200" height="200" loading="lazy"> ${ podpis ? `<figcaption class="text-lg text-center text-gray-600">${podpis}</figcaption>` : ``}</figure>`;
   });
 
   eleventyConfig.addShortcode("youtube", (url, podpis = "") => {
