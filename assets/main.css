@@ -100,20 +100,14 @@ main {
     -1px 1px 0 theme('colors.gray.200'),
      1px 1px 0 theme('colors.gray.200');
   }
-  a::after {
-    content: '';
-    position: absolute;
-    bottom: 4px;
-    left: 0;
-    right: 0;
-    height: 2px;
-    background-color: theme('colors.pomaranczowy');
-    z-index: -1;
+  a {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(0, theme('colors.pomaranczowy'), theme('colors.pomaranczowy'));
+    background-position-y: 1.1em;
+    background-size: 100% 2px;
   }
   a.no-underline::after {
-    content: '';
-    height: 0;
-    background-color: none;
+    background: none;
   }
   hr {
     @apply my-16 border border-dashed border-gray-400;
