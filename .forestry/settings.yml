@@ -11,8 +11,8 @@ sections:
   match: "**/*.md"
   templates:
   - default
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: tkackie
+public_path: https://res.cloudinary.com/fusilli/image/upload
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
