@@ -5,9 +5,8 @@ title: Narzędzia
 
 - → [Krosno](/narzedzia/krosno/#main)
 - → [Snowadło](/narzedzia/snowadlo/#main)
-- → [Motowidło](/narzedzia/motowidlo/#main)
-- → [Kołowrotek](/narzedzia/kolowrotek/#main)
-- → [Cierlice/międlice](/narzedzia/cierlice-miedlice/#main)
+
+Krosno i snowadło nie wyczerpują oczywiście sprzętów i narzędzi potrzebnych w procesie tkackim. Wspominamy o nich jednak przy okazji opisu obróbki włókien w zakładce „[Surowce](/surowce/#main)” oraz na podstronie „[Przygotowanie nici](/przygotowanie-nici/#main)”.
 
 ---
 

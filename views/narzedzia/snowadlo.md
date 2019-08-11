@@ -32,6 +32,6 @@ I jeszcze otucha dla tych, którzy mają wprawdzie w domu miejsce na krosno, ale
 
 ---
 
-↑ [Narzędzia](/narzedzia/#main) | ← [Krosno](/narzedzia/krosno/#main) | [Motowidło](/narzedzia/motowidlo/#main) →
+↑ [Narzędzia](/narzedzia/#main) | ← [Krosno](/narzedzia/krosno/#main)
 
 [bibliografia]: /bibliografia/#main
