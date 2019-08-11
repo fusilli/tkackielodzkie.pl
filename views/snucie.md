@@ -8,17 +8,17 @@ Snucie jest procesem przygotowawczym przędzy do tkania. Polega na równoległym
 
 Brzmi mało przyjaźnie. Żeby zatem uprościć – w snuciu chodzi o przejście od tego etapu (dla osnowy lnianej)
 
-{% foto "snucie1.jpg", "dodać opis" %}
+{% foto "v1565520500/tkackie/snucie1.jpg", "dodać opis" %}
 
 lub tego (dla bawełnianej)
 
-{% foto "snucie2.jpg", "dodać opis" %}
+{% foto "v1565520500/tkackie/snucie2.jpg", "dodać opis" %}
 
 do tego 
 
-{% foto "snucie3.jpg", "dodać opis" %}
+{% foto "v1565520500/tkackie/snucie3.jpg", "dodać opis" %}
 
-{% foto "snucie4.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie4.jpg", "dodać opis" %}
 
 Jak zwracają uwagę eksperci: „Od doboru przeprowadzonego procesu snucia zależą dalsze losy prawidłowego przebiegu procesu tkania na krośnie […] Źle przygotowana osnowa bardzo często przekreśla możliwość jej wyrobienia lub wyprodukowania tkaniny o odpowiedniej jakości” [[22][bibliografia]].
 
@@ -28,15 +28,15 @@ Nic dziwnego, że o ile tkactwem zajmowała się na wsi niemal każda gospodyni,
 
 W tkactwie tradycyjnym snucie przeprowadza się przy użyciu specjalnego urządzenia – snowadła (snuwadla, snuwadel, snowadel), które ma zwykle postać dwóch skrzyżowanych prostopadle ram, umieszczonych na obrotowej osi.
 
-{% foto "snucie5.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie5.jpg", "dodać opis" %}
 
 My, w filmach instruktażowych będziemy operować także bardziej uproszczonym snowadłem w formie ramy, stanowiącym duże ułatwienie dla tkaczek, nieposiadających zbędnej stodółki na umieszczenie pełnowymiarowego snowadła.
 
-{% foto "snucie6.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie6.jpg", "dodać opis" %}
 
 Przygotowana na snowadle przędza (nie wygląda na specjalnie przygotowaną, prawda? A jednak, wbrew pozorom, jest już znacznie bardziej uporządkowana niż na szpulkach),
 
-{% foto "snucie7.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie7.jpg", "dodać opis" %}
 
 zostaje następnie nawinięta na wał nadawczy krosna (nowój), przewleczona przez nicielnice i płochę. Produktem finalnym procesu snucia jest osnowa.
 

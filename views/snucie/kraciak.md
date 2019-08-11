@@ -8,9 +8,9 @@ Województwo łódzkie to nie Szkocja. Tkaniny w kratę były tutaj znacznie mni
 
 Najbardziej charakterystycznym przykładami kraciaków są łowickie *nospy*, stosowane jako wierzchnia część poszwy na pierzynę. [fot. 1 i 2]
 
-{% foto "snucie-kraciak1.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie-kraciak1.jpg", "dodać opis" %}
 
-{% foto "snucie-kraciak2.jpg", "dodać opis" %}
+{% foto "v1565520501/tkackie/snucie-kraciak2.jpg", "dodać opis" %}
 
 Część spodnia, mniej eksponowana, była już jednobarwna lub w drobniejszą kratkę, robiona z lnu lub bawełny. Sama *nospa*, co odróżnia ją od pasiaka, miała osnowę wełnianą, na której tkano wełnianym wątkiem. Co jeszcze istotniejsze, wzór tworzy się tutaj osnowowo-wątkowo, co oznacza, że zarówno osnowa jak i wątek są widoczne na gotowej tkaninie. Sposób snucia, nie tylko przy *nospach*, ale przy tkaninach kraciastych w ogóle, jest zatem nieco inny niż przy pasiakach. Wszędzie, gdzie w tkaninie następować będą pionowe paski, konieczna jest zmiana koloru osnowy. Snucie nie jest zatem procesem ciągłym, z wykorzystaniem jednego tylko koloru nici, ale wymaga łączenia dwóch lub więcej kolorów, by uzyskać pożądany efekt. Jeśli zaś pasy mają być równej szerokości, ilość nici danego koloru powinna być odliczona właściwie co do sztuki.
 

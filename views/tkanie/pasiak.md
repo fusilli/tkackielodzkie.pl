@@ -6,11 +6,11 @@ tags: Tkanie
 
 Pasiak tkany jest splotem płóciennym, uznawanym za najprostszy możliwy splot (czyli nitka wątku przechodzi naprzemiennie nad jedną i pod kolejną nitką osnowy, jak na rysunku).
 
-{% foto "tkanie-pasiak-rys1.png", "dodać opis" %}
+{% foto "v1565520506/tkackie/tkanie-pasiak-rys1.png", "dodać opis" %}
 
 W związku z tym wymaga użycia jedynie dwóch nicielnic, przez które nici osnowy przechodzą na zmianę – raz przez nicielnicę przednią i raz przez tylną.
 
-{% foto "tkanie-pasiak1.jpg", "dodać opis" %}
+{% foto "v1565520506/tkackie/tkanie-pasiak1.jpg", "dodać opis" %}
 
 Barwny wełniany wątek pasiaków umożliwia tworzenie dużej liczby wariantów kolorystycznych. Paski na tkaninie tworzyły oryginalnie powtarzalne układy. Pojedynczy „element” takiego układu, który następnie powtarzał się na całej długości tkaniny, określa się mianem raportu. Taki powtarzający się regularnie raport nazywamy zamkniętym, ale np. w bogatym Księstwie Łowickim paski nie tworzyły takich schematów, czyli tkanina miała raport otwarty.
 

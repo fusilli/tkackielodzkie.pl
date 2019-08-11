@@ -12,22 +12,22 @@ title: Realizator i partnerzy
 Działania w ramach projektu „Tkackie łódzkie” były możliwe dzięki dofinansowaniu z **[Ministerstwa Kultury i Dziedzictwa Narodowego](https://www.gov.pl/web/kultura)** w ramach Programu „Kultura Ludowa i Tradycyjna”.
 
 <div class="sm_flex justify-around items-center">
-  <a href="http://www.maie.lodz.pl/" title="Muzeum Archeologiczne i Etnograficzne w Łodzi" class="no-underline"><img src="/assets/img/maie.png" alt="Logo Muzeum Archeologicznego i Etnograficznego w Łodzi" width="179" height="105"></a>
-  <a href="http://www.maie.lodz.pl/skansen/" title="Łęczycka Zagroda Chłopska" class="no-underline"><img src="/assets/img/zagroda-leczycka.png" alt="Logo Zagrody Łęczyckiej" width="126" height="106"></a>
+  <a href="http://www.maie.lodz.pl/" title="Muzeum Archeologiczne i Etnograficzne w Łodzi" class="no-underline"><img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/maie.png" alt="Logo Muzeum Archeologicznego i Etnograficznego w Łodzi" width="179" height="105"></a>
+  <a href="http://www.maie.lodz.pl/skansen/" title="Łęczycka Zagroda Chłopska" class="no-underline"><img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/zagroda-leczycka.png" alt="Logo Zagrody Łęczyckiej" width="126" height="106"></a>
 </div>
 
 **[Muzeum Archeologiczne i Etnograficzne w Łodzi](http://www.maie.lodz.pl/)** jest partnerem projektu „Tkackie łódzkie”. Dzięki współpracy z Muzeum mogliśmy m.in. wzbogacić projekt o wyjątkowe zdjęcia tkanin z terenu województwa oraz archiwalne fotografie prac i sprzętów tkackich. Szczególną pomoc otrzymaliśmy od **p. Alicji Woźniak** z Działu Tkaniny Ludowej oraz **p. Michała Świercza** z Archiwum. Na terenie będącej filią Muzeum, **[Łęczyckiej Zagrody Chłopskiej](http://www.maie.lodz.pl/skansen/)** w Kwiatkówku odbył się jeden z towarzyszących projektowi otwartych pokazów tkackich.
 
-<img src="/assets/img/ogrod-botaniczny.jpg" alt="Logo Ogrodu Botanicznego w Łodzi" width="162" height="150">
+<img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/ogrod-botaniczny.jpg" alt="Logo Ogrodu Botanicznego w Łodzi" width="162" height="150">
 
 Dzięki współpracy z **Ogrodem Botanicznym w Łodzi** mieliśmy możliwość organizacji na terenie ogrodowego Skansenu, jednego spośród towarzyszących projektowi otwartych pokazów tkackich.
 
 ## Patroni medialni:
 
 <div class="md_flex justify-around items-center">
-  <a href="http://kulturaludowa.pl/" title="KulturaLudowa.pl" class="no-underline"><img src="/assets/img/kultura-ludowa.png" alt="Logo KulturaLudowa.pl" width="200" height="51"></a>
-  <a href="http://wiano.eu/" title="Wiano.eu" class="no-underline"><img src="/assets/img/wiano.png" alt="Logo Wiano.eu" width="180" height="108"></a>
-  <a href="https://lodz.tvp.pl/" title="TVP3 Łódź" class="no-underline"><img src="/assets/img/tvp-lodz.png" alt="Logo TVP3 Łódź" width="180" height="108"></a>
+  <a href="http://kulturaludowa.pl/" title="KulturaLudowa.pl" class="no-underline"><img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/kultura-ludowa.png" alt="Logo KulturaLudowa.pl" width="200" height="51"></a>
+  <a href="http://wiano.eu/" title="Wiano.eu" class="no-underline"><img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/wiano.png" alt="Logo Wiano.eu" width="180" height="108"></a>
+  <a href="https://lodz.tvp.pl/" title="TVP3 Łódź" class="no-underline"><img src="https://res.cloudinary.com/fusilli/image/upload/v1565526504/tkackie/tvp-lodz.png" alt="Logo TVP3 Łódź" width="180" height="108"></a>
 </div>
 
 ---

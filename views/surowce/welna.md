@@ -14,18 +14,18 @@ Proces obróbki wełny jest nieco mniej rozbudowany niż w przypadku lnu czy kon
 
 1. Strzyżenie owiec – dziś przeprowadzane przy pomocy golarek, tradycyjnie służyły do tego specjalne nożyce:
 
-{% foto "welna1.jpg", "dodać opis" %}
+{% foto "v1565520507/tkackie/welna1.jpg", "dodać opis" %}
 
 2. Pranie, płukanie, suszenie – choć do przędzenia nadaje się nawet wełna niewyprana, to dla ułatwienia pozostałych etapów i oczyszczenia surowca etap ten się stosuje. Ważne, aby pranie nie przebiegało w zbyt ciepłej wodzie i aby nie poruszać w tym czasie wełną – obie te czynności grożą pomieszaniem włókien i częściowym sfilcowaniem wełny [[28][bibliografia]].
 3. Czesanie/gręplowanie – może przebiegać przy pomocy grzebienia albo grępli – dwóch szczotek nabitych gwoździami, z których na jedną nakłada się wełnę, a drugą się rozczesuje. Nowsze gręple mają także postać nabitego kolcami walca zaopatrzonego w korbę. W porównaniu z grzebieniem gręple mają te zaletę, że są bardziej efektywne oraz tę wadę, że nie odseparowują najkrótszych, najgorszych jakościowo włókien, dając wełnę bardziej zgrzebną [[29][bibliografia]].
 
-{% foto "welna2.jpg", "Gręple, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+{% foto "v1565520507/tkackie/welna2.jpg", "Gręple, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
 4. Przędzenie – podobnie jak w przypadku nici lnianej przebiegało na kołowrotku, a jeszcze wcześniej na przęślicy zaopatrzonej w tzw. krążołek. 
 
-{% foto "welna3.jpg", "Przęślica z krążołkiem, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+{% foto "v1565520507/tkackie/welna3.jpg", "Przęślica z krążołkiem, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
-{% foto "welna4.jpg", "Przędzenie wełny na kołowrotku, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+{% foto "v1565520507/tkackie/welna4.jpg", "Przędzenie wełny na kołowrotku, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
     
 Przędzenie może odbywać się również z pominięciem etapu prania i czesania (tzw. przędzenie „z runa”), jednak wymaga wówczas bardzo dobrej jakości surowca, bez zanieczyszczeń. [[29][bibliografia]]
 
@@ -33,8 +33,8 @@ Wełna wymagała też farbowania. O ile len, wykorzystywany w głównej mierze n
 
 Z procesów dotyczących obróbki już nie samej przędzy wełnianej, a samodziału z niej uprzędzionego, warto jeszcze wspomnieć folowanie, czyli spilśnianie tkaniny, pod wpływem zgniatania. Celem folowania było uzyskanie sukna wykorzystywanego m.in. na sukmany męskie [[18][bibliografia]]. 
 
-{% foto "welna5.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
-{% foto "welna6.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+{% foto "v1565520508/tkackie/welna5.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+{% foto "v1565520508/tkackie/welna6.jpg", "Folowanie sukna, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
 ---
 
