@@ -11,10 +11,8 @@ module.exports = function(eleventyConfig) {
   const cacheBusterOptions = { outputDirectory: "_site" };
 
   eleventyConfig.setLibrary("md", markdownLib);
-  eleventyConfig.addPassthroughCopy("foto");
   eleventyConfig.addPassthroughCopy("assets/mapa");
   eleventyConfig.addPassthroughCopy("assets/img");
-  eleventyConfig.addPassthroughCopy("views/admin/config.yml");
   eleventyConfig.addFilter("cudzyslowy", str => {
     return str.replace(/([\s][\(]?)(&quot;)([\S])/g, "\$1&bdquo;\$3").replace(/([\S])(&quot;)([\)]?[\s])/g, "\$1&rdquo;\$3");
   });
