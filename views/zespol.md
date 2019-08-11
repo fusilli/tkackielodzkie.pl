@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Zespół
-
 ---
 {% zespol "v1565525789/tkackie/monika-stasiak.jpg", "Monika Stasiak" %}
 
@@ -17,7 +16,7 @@ title: Zespół
 
 **dr hab. Michał Frydrysiak** – doktor nauk technicznych na Wydziale Technologii Materiałowych i Wzornictwa Tekstyliów Politechniki Łódzkiej. W „Tkackim łódzkim” odpowiedzialny za merytoryczną redakcję tekstów dotyczących technologii tkactwa.
 
-{% zespol "v1565551902/tkackie/piotr-swiderek_yaupep.jpg", "Piotr Świderek" %}
+{% zespol "v1565551902/tkackie/piotr-swiderek.jpg", "Piotr Świderek" %}
 
 **Piotr Świderek** – absolwent etnologii na Uniwersytecie Łódzkim. Zawodowo od kilkunastu lat zajmuje się tworzeniem [stron internetowych](https://static.solutions) i składem DTP, najczęściej dla organizacji pozarządowych i podmiotów ekonomii społecznej. Entuzjasta metodologii JAMstack, umożliwiającej tworzenie szybkich, bezpiecznych, niezawodnych i niedrogich w utrzymaniu stron www. Czytuje komiksy, grywa w koszykówkę i pokonuje wielokilometrowe dystanse na specjalnie przystosowanej do tego deskorolce. Czasami wymyśla [śmieszne rysunki](http://rysunki.me).
 
@@ -25,6 +24,6 @@ title: Zespół
 
 **Maciej Kronenberg** – prezes REGIO; łodzianin; doktor nauk o ziemi w dyscyplinie geografia; regionalista; autor książek o Łodzi i regionie, m.in. „500 zagadek o Łodzi i regionie łódzkim”, „[Przewodnik po filmowej Łodzi](http://regiocentrum.pl/publikacje/ksiazki/przewodnik-po-filmowej-lodzi/)”, „[Stawkowy przewodnik filmowy](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/)”. Pasjonuje go turystyka dziedzictwa przemysłowego i filmowego. Licencjonowany przewodnik po Łodzi i województwie łódzkim. W ramach projektu zajmuje się m.in. działaniami promocyjnymi.
 
-***
+---
 
 ← [Realizator i partnerzy](/realizator-i-partnerzy/#main)
