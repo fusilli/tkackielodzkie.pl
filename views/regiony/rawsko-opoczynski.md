@@ -10,7 +10,7 @@ Strój rawsko-opoczyński obejmuje swoim zasięgiem obszar na lewym brzegu Pilic
 
 Tkactwem zajmowano się nie tylko na wsi, ale i w miastach – często była to wytwórczość na własny użytek. Ośrodkami sukienniczymi były: Drzewica, Żarnów, Klwów, Odrzywół, Gielniów i Białaczów \[[12](/bibliografia/#main)\]. Dzięki polepszającym się warunkom ekonomicznym odzież i tkaniny użytkowe stawały się coraz bardziej ozdobne. Zamożniejsze gospodynie kupowały lepszą przędze, barwiły ją w farbiarniach, kupowały jedwabne wstążki i bawełnę, aby dekorować nimi tkaniny.
 
-{% foto "v1566509399/tkackie/IMG_0766_av2mxc.jpg", "Dodać opis" %}
+{% foto "v1566509399/tkackie/IMG_0766_av2mxc.jpg", "Ozdobiona tasiemkami zapaska z rawskiego, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
 
 Od początku XX wieku na omawianym obszarze zaczęła maleć rola domowego tkactwa, które zaczynało być wypierane przez fabryczną produkcję włókienniczą. W przeciwieństwie jednak do innych regionów, rawsko-opoczyńskie przetrwało jako region z żywą kulturą ludową jeszcze do okresu po II wojnie światowej. W okresie PRL organizowano kursy tkackie i zakładano spółdzielnie pracy trudniące się rzemiosłem ludowym. Istotnymi ośrodkami tkackimi były wówczas Rzeczyca (Spółdzielnia Rękodzieła Artystycznego i Ludowego „Twórczość mazowiecka”) i Opoczno (Spółdzielnia Rękodzieła Artystycznego i Ludowego „Opocznianka”) \[[12](/bibliografia/#main)\].
 
