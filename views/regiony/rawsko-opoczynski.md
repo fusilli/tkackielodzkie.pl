@@ -22,7 +22,7 @@ Tkaniny konopne, gorszej jakości, były wykorzystywane do szycia ubiorów roboc
 
 Przędzę wełnianą stosowano przy tkaniu tkanin pasiastych i w przeciwieństwie do płótna lnianego, była ona farbowana bądź przy użyciu barwników naturalnych bądź, w późniejszych latach, sztucznych.
 
-{% foto "v1566511097/tkackie/IMG_4608_uq7gvb.jpg",_"_Tkanina pasiasta z opoczyńskiego" %}
+{% foto "v1566511097/tkackie/IMG_4608_uq7gvb.jpg", "Tkanina pasiasta z opoczyńskiego" %}
 
 ## Sploty i wzory
 
