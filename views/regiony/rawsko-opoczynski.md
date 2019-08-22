@@ -22,6 +22,8 @@ Tkaniny konopne, gorszej jakości, były wykorzystywane do szycia ubiorów roboc
 
 Przędzę wełnianą stosowano przy tkaniu tkanin pasiastych i w przeciwieństwie do płótna lnianego, była ona farbowana bądź przy użyciu barwników naturalnych bądź, w późniejszych latach, sztucznych.
 
+{% foto "v1566511097/tkackie/IMG_4608_uq7gvb.jpg",_"_Tkanina pasiasta z opoczyńskiego" %}
+
 ## Sploty i wzory
 
 Spośród splotów w okolicach Rawy Mazowieckiej i Opoczna stosowano najprostszy splot płócienny (dwunicielnicowy) polegający na krzyżowaniu osnowy z wątkiem. W ten sposób tkano płótna na koszule, fartuchy, wełniane tkaniny kraciaste. Przykładem splotu płóciennego jest charakterystyczny dla rawsko-opoczyńskiego pasiak, który tkany jest splotem płóciennym – przy jednobarwnej osnowie posiada wielobarwny wątek układany w różnorodne zestawienia \[[12](/bibliografia/#main)\].
