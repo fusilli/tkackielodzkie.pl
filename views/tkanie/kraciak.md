@@ -8,7 +8,7 @@ Z racji na to, że kraciak podobnie jak pasiaki tkany był splotem płóciennym,
 
 Jeśli już mielibyśmy wskazać różnicę, to mogłaby ona polegać na nieco rzadszym zmienianiu wątku. O ile w przypadku pasiaków kolor wątku, zmieniał się dość często (wraz ze zmianą koloru pasów), o tyle w kraciakach tkano przede wszystkim jednolitym kolorem dna, który raz na jakiś czas zmieniał się na prążki innego koloru. Tu również, podobnie jak przy snuciu, istotne było obliczenie, ile rzędów wątku potrzebujemy, by otrzymać paski o tej samej szerokości, w dość regularnych odstępach.
 
-{% foto "v1566566907/tkackie/IMG_1078_obsphz.jpg_", "_" %}
+{% foto "v1566566907/tkackie/IMG_1078_obsphz.jpg_", "_Tkanie kraciaka" %}
 
 Uciążliwością przy tkaniu kraciaka o wątku i osnowie wełnianej, jest z pewnością to, że nitki znacznie bardziej zahaczają się o siebie (aby dobrze dobić wątek należy każdorazowo rozbijać pozczepiane włókna) oraz jeszcze większa ilość pyłu wełnianego w powietrzu. W tym ostatnim przypadku warto rozważyć zastosowanie lnianej lub bawełnianej okrywy na utkaną część (jak robiły to tkaczki z Brzustówka przy pasiaku), albo maseczki pyłowej na twarz.
 
