@@ -2,11 +2,11 @@
 layout: base
 title: Pasiak
 tags: Snucie
----
 
+---
 Kiedy myślimy o tkaninie ludowej, pasiak jest jej najbardziej oczywistym przedstawicielem. Tkany jest splotem płóciennym (o tym więcej w zakładce: [Tkanie](/tkanie/pasiak/#main)). W związku z tym wymaga użycia jedynie dwóch nicielnic, przez które nici osnowy przechodzą na zmianę – przez nicielnicę przednią i tylną. Początkowo wykonywany był zwykle na jednobarwnej osnowie lnianej.
 
-{% foto "v1565520506/tkackie/snucie-pasiak1.jpg", "dodać opis" %}
+{% foto "v1565520506/tkackie/snucie-pasiak1.jpg", "Pasiak wykonany na lnianej osnowie" %}
 
 Współcześnie, dla uzyskania drobnej, nieprzezierającej znad nici wątku osnowy, stosuje się również do tego celu nić bawełnianą.
 
@@ -18,6 +18,6 @@ O tym, jak proces ten wygląda w szczegółach, opowiadają poniższe filmy.
 
 {% youtube "5FjWOqbqs6U", "Snucie pasiaka – część II" %}
 
----
+***
 
 ↑ [Snucie](/snucie/#main) | [Krajka](/snucie/krajka/#main) →
