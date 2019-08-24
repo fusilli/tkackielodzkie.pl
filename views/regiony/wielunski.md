@@ -14,7 +14,11 @@ W zależności od przeznaczenia, wytwarzano tkaniny z przędzy lnianej i wełnia
 
 ## Kolorystyka
 
-Podobnie jak w innych regionach dominującym wzorem materiałów były pasy. Wełniaki, nazywane w wieluńskiem _burokami_ przypominały kolorystyką sąsiednie stroje sieradzkie (czarne lub zielone, wąskie pasy na czerwonym tle). Szybki zanik stroju spowodował, że w okolicach Wielunia nie rozwinęła się bogatsza ornamentyka, czy kolorystyka. W XX wieku zaznaczyły się co prawda wpływy mody łowickiej (kolory tęczowe), ale strój był już wtedy w zaniku. Pasiak wieluński zachował jednak odrębność – wieluńskie tkaniny pasiaste były oparte na symetrii i miały swoisty układ i szerokość pasów. Zielono-czarne zestawy pasków były ułożone w taki sposób, że stanowiły brzegi czerwonego tła, a wełniak widziany z daleka wyglądał na jednobarwny – dopiero w ruchu było widać pasy \[[5](/bibliografia/#main)\].
+Podobnie jak w innych regionach dominującym wzorem materiałów były pasy. Wełniaki, nazywane w wieluńskiem _burokami_ przypominały kolorystyką sąsiednie stroje sieradzkie (czarne lub zielone, wąskie pasy na czerwonym tle).
+
+{% foto "v1566678645/tkackie/IMG_0710_srgv1e.jpg", "Fragment tkaniny wieluńskiej, tzw. buroka, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
+Szybki zanik stroju spowodował, że w okolicach Wielunia nie rozwinęła się bogatsza ornamentyka, czy kolorystyka. W XX wieku zaznaczyły się co prawda wpływy mody łowickiej (kolory tęczowe), ale strój był już wtedy w zaniku. Pasiak wieluński zachował jednak odrębność – wieluńskie tkaniny pasiaste były oparte na symetrii i miały swoisty układ i szerokość pasów. Zielono-czarne zestawy pasków były ułożone w taki sposób, że stanowiły brzegi czerwonego tła, a wełniak widziany z daleka wyglądał na jednobarwny – dopiero w ruchu było widać pasy \[[5](/bibliografia/#main)\].
 
 O ile tkaniny odzieżowe odróżniają wieluńskie od sąsiedzkich ziem, o tyle tkaniny użytkowe nie są zbyt oryginalne pod tym względem. Niemniej tkanina dekoracyjna znajdowała swoje miejsce we wnętrzach mieszkalnych. O miejscowych tradycjach tkackich świadczą lniano-wełniane derki. Derki odznaczały się skromnym wzornictwem, zbudowanym z dwóch lub trzech pasów równej szerokości (3-5 cm), najczęściej w kolorach czerwonym, czarnym, żółtym, zielonym \[[16](/bibliografia/#main)\].
 
