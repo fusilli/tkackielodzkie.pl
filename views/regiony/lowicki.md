@@ -36,6 +36,8 @@ Nospy przestano wyrabiać już w dwudziestoleciu międzywojennym ze względu na 
 
 Charakterystyczna dla wełniaków kolorystyka początkowo była mniej wyrazista niż w późniejszych okresach – wytwarzano tkaniny pasiaste w odcieniach szafirowych, jasno-ceglastych, czarnych, ciemnozielonych i czerwonych z wąskimi paseczkami (brążkami) białymi, niebieskimi i zielonymi. Na sukmany wyrabiano tkaniny jednobarwne białe lub szare, a w tkaninach kraciastych używano z przyczyn praktycznych ciemnej przędzy. Od II połowy XIX wieku materiał zyskuje nowe kolory, spośród których najbardziej charakterystycznym staje się stosowany od końca XIX wieku kolor dubeltowy (pomarańczowy), wypierający barwę czerwoną.
 
+{% foto "v1566680217/tkackie/IMG_0756_nqedfv.jpg", "Męskie portki i pas z dnem pomarańczowym, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
 Tkaczki nie były już skazane na stosowanie barwników naturalnych. Mogły zanosić przędze do farbiarni lub samodzielnie korzystać z kupnych barwników sztucznych. W XX wieku na tkaninach wełnianych zagoszczą tonacje zimne, dotychczas w ludowym rzemiośle niestosowane \[[6](/bibliografia/#main)\].
 
 {% foto "v1566679792/tkackie/IMG_0701_iluxil.jpg", "Fragment tkaniny ślubnej, w zimnej tonacji kolorystycznej, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
