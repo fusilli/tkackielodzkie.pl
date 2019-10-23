@@ -4,7 +4,7 @@ title: Snucie
 tags: Proces
 
 ---
-Snucie jest procesem przygotowawczym przędzy do tkania. Polega na równoległym ułożeniu na danej szerokości, ustalonej liczby nitek osnowy, o równej długości i jednakowym napięciu.
+Snucie to proces przygotowania osnowy do tkania. Polega na równoległym ułożeniu na danej szerokości przędz tkackich, o określonej liczbie, długości i jednakowym napięciu.
 
 Brzmi mało przyjaźnie. Żeby zatem uprościć – w snuciu chodzi o przejście od tego etapu (dla osnowy lnianej)
 
@@ -22,11 +22,11 @@ do tego
 
 Jak zwracają uwagę eksperci: „Od doboru przeprowadzonego procesu snucia zależą dalsze losy prawidłowego przebiegu procesu tkania na krośnie \[…\] Źle przygotowana osnowa bardzo często przekreśla możliwość jej wyrobienia lub wyprodukowania tkaniny o odpowiedniej jakości” \[[22](/bibliografia/#main)\].
 
-Rzeczywiście – luźne nitki w osnowie będą powodowały nierównomierne naprężenie gotowej tkaniny; sąsiadujące nitki przełożone przez tę samą nicielnicę spowodują „wychodzenie” fragmentu osnowy spod nici wątku, a błędów, jakie można popełnić jest znacznie więcej.
+Rzeczywiście – luźne nitki w osnowie będą powodowały nierównomierne naprężenie gotowej tkaniny; plątanie się nitek może nawet prowadzić do zerwania osnowy. Sąsiadujące nitki przełożone przez tę samą nicielnicę spowodują „wychodzenie” fragmentu osnowy spod nici wątku, a błędów, jakie można popełnić jest znacznie więcej.
 
 Nic dziwnego, że o ile tkactwem zajmowała się na wsi niemal każda gospodyni, o tyle snucie było domeną niewielu. Stąd wymagało często odwołania się do pomocy bardziej doświadczonej sąsiadki \[[23](/bibliografia/#main)\]. W trakcie naszych badań terenowych mieliśmy dużo szczęścia, bo udało nam się znaleźć w Brzustówku nie tylko tkaczkę, ale i snowaczkę (zobaczycie ten mistrzowski duet w [filmie](/snucie) :-).
 
-W tkactwie tradycyjnym snucie przeprowadza się przy użyciu specjalnego urządzenia – snowadła (snuwadla, snuwadel, snowadel), które ma zwykle postać dwóch skrzyżowanych prostopadle ram, umieszczonych na obrotowej osi.
+W tkactwie tradycyjnym snucie przeprowadza się przy użyciu specjalnego urządzenia – snowadła (_snuwadla, snuwadel, snowadel_), które ma zwykle postać dwóch skrzyżowanych prostopadle ram, umieszczonych na obrotowej osi.
 
 {% foto "v1565520501/tkackie/snucie5.jpg", "Snowadło" %}
 
@@ -38,7 +38,7 @@ Przygotowana na snowadle przędza (nie wygląda na specjalnie przygotowaną, pra
 
 {% foto "v1565520501/tkackie/snucie7.jpg", "Osnowa gotowa do nałożenia na krosno" %}
 
-zostaje następnie nawinięta na wał nadawczy krosna (nowój), przewleczona przez nicielnice i płochę. Produktem finalnym procesu snucia jest osnowa.
+zostaje następnie nawinięta na wał nadawczy krosna (wał osnowowy, _nowój_), przewleczona przez nicielnice i płochę. Produktem finalnym procesu snucia jest równomiernie rozłożona i napięta osnowa.
 
 Choć sam schemat snucia jest dość zbliżony, różni się on szczegółami w zależności od tego, na jaki splot i wzór tkaniny i funkcję się zdecydujemy i co za tym idzie, jaka będzie jej szerokość, ilu nicielnic użyjemy do osnucia, a wreszcie czy osnowa będzie jednobarwna, czy kolorowa. Różnice te są widoczne w poniższych filmach:
 
