@@ -4,7 +4,7 @@ title: Tkanie
 tags: Proces
 
 ---
-Tworzenie tkaniny na krośnie przebiega tzw. elementarnymi odcinkami. Ma to wiele wspólnego z matematyką, bo również i tutaj odcinek obejmuje część prostej zawartej między dwoma punktami. W tym przypadku prostą jest nić wątku, a jej „brzegowe punkty” to dwa skraje tkaniny. Mówiąc fachowo, elementarny odcinek to fragment wątku przeplatający się z odpowiadającym mu fragmentem osnowy \[[25](/bibliografia/#main)\]. Nie wystarczy zatem dowolnie „przerzucić” odcinek, ale musi się on jeszcze odpowiednio przepleść. Do tego celu służy w krośnie przesmyk (czyli ta wolna przestrzeń, przez którą przerzuca się czółenko z wątkiem).
+Tworzenie tkaniny na krośnie przebiega tzw. elementarnymi odcinkami. Ma to wiele wspólnego z matematyką, bo również i tutaj odcinek obejmuje część prostej zawartej między dwoma punktami. W tym przypadku prostą jest nić wątku, a jej „brzegowe punkty” to dwa brzegi tkaniny. Mówiąc fachowo, elementarny odcinek to fragment wątku przeplatający się z odpowiadającym mu fragmentem osnowy \[[25](/bibliografia/#main)\]. Nie wystarczy zatem dowolnie „przerzucić” odcinek, ale musi się on jeszcze odpowiednio przepleść. Do tego celu służy w krośnie przesmyk (czyli ta wolna przestrzeń, przez którą przerzuca się czółenko z wątkiem).
 
 {% foto "v1565520505/tkackie/tkanie1.jpg", "Przesmyk tkacki" %}
 
@@ -16,7 +16,7 @@ Mimo że w porównaniu ze snuciem, tkanie brzmi jak coś bardzo prostego, równi
 
 {% foto "v1565520506/tkackie/tkanie3.jpg", "Próbnik kolorystyczny" %}
 
-Tkaczka musi też pilnować nawijania urobku, czyli gotowej części tkaniny na wał odbiorczy (nawój), a zarazem odwijania osnowy z wału nadawczego (który dla zmyłki, w opoczyńskim także zwany jest nawojem :-)). Do tego dochodzi jeszcze: kontrolowanie ubicia wątku (zbyt ciasno ubity może powodować falowanie tkaniny, a zbyt luźny sprawi, że nici osnowy będą zbyt mocno znad niego przezierały); pilnowanie, by brzegi tkaniny nie ściągały się za bardzo do środka czy zważanie, by nici osnowy nie przecierały się i nie pękały (co może mieć miejsce zwłaszcza przy osnowie wełnianej).
+Tkaczka musi też pilnować nawijania urobku, czyli gotowej części tkaniny na wał odbiorczy (_nawój, nowój_), a zarazem odwijania osnowy z wału nadawczego (który dla zmyłki, w opoczyńskim także zwany jest _nawojem_ :-)). Do tego dochodzi jeszcze: kontrolowanie ubicia wątku (zbyt ciasno ubity może powodować falowanie tkaniny, a zbyt luźny sprawi, że nici osnowy będą zbyt mocno znad niego przezierały); pilnowanie, by brzegi tkaniny nie ściągały się za bardzo do środka czy zważanie, by nici osnowy nie przecierały się i nie pękały (co może mieć miejsce zwłaszcza przy osnowie wełnianej).
 
 Każde utkane płótno musi być też w odpowiedni sposób zakończone (co w zależności od tego, czy kończy się również osnowa, czy nie – przebiega nieco inaczej).
 
