@@ -15,7 +15,7 @@ title: Zespół
 
 **Kamila Kulik** – etnografka, absolwentka Instytutu Etnologii i Antropologii Kulturowej Uniwersytetu Łódzkiego. Współautorka książki „Złotno, Zdrowie i Osiedle im. Montwiłła Mireckiego w dokumentach i wspomnieniach mieszkańców”. Aktywnie zgłębia sekrety krajoznawcze w województwie łódzkim i nie tylko. W ramach projektu „Tkackie łódzkie” była jedną a autorek tekstów etnograficznych na stronie internetowej.
 
-**dr Tomasz Dróżdż** - Absolwent Wydziału Technologii Materiałowych i Wzornictwa Tekstylióww Łodzi oraz studiów podyplomowych „Analiza i dokumentacja zabytków tekstylnych” na Politechnice Łódzkiej.Projektant tkanin żakardowych i druków. Doktor sztuki w zakresie sztuk plastycznych i konserwacji dzieł sztuki uzyskany na Akademii Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi. W „Tkackim łódzkim” odpowiedzialny za merytoryczną konsultację tekstów dotyczących technologii tkactwa.
+**dr Tomasz Dróżdż** - Absolwent Wydziału Technologii Materiałowych i Wzornictwa Tekstyliów w Łodzi oraz studiów podyplomowych „Analiza i dokumentacja zabytków tekstylnych” na Politechnice Łódzkiej.Projektant tkanin żakardowych i druków. Doktor sztuki w zakresie sztuk plastycznych i konserwacji dzieł sztuki uzyskany na Akademii Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi. W „Tkackim łódzkim” odpowiedzialny za merytoryczną konsultację tekstów dotyczących technologii tkactwa.
 
 {% zespol "v1565551902/tkackie/piotr-swiderek.jpg", "Piotr Świderek" %}
 
