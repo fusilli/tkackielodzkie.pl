@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Zespół
+
 ---
 {% zespol "v1565525789/tkackie/monika-stasiak.jpg", "Monika Stasiak" %}
 
@@ -14,7 +15,7 @@ title: Zespół
 
 **Kamila Kulik** – etnografka, absolwentka Instytutu Etnologii i Antropologii Kulturowej Uniwersytetu Łódzkiego. Współautorka książki „Złotno, Zdrowie i Osiedle im. Montwiłła Mireckiego w dokumentach i wspomnieniach mieszkańców”. Aktywnie zgłębia sekrety krajoznawcze w województwie łódzkim i nie tylko. W ramach projektu „Tkackie łódzkie” była jedną a autorek tekstów etnograficznych na stronie internetowej.
 
-**dr hab. Michał Frydrysiak** – doktor nauk technicznych na Wydziale Technologii Materiałowych i Wzornictwa Tekstyliów Politechniki Łódzkiej. W „Tkackim łódzkim” odpowiedzialny za merytoryczną redakcję tekstów dotyczących technologii tkactwa.
+**dr Tomasz Dróżdż** - Absolwent Wydziału Technologii Materiałowych i Wzornictwa Tekstylióww Łodzi oraz studiów podyplomowych „Analiza i dokumentacja zabytków tekstylnych” na Politechnice Łódzkiej.Projektant tkanin żakardowych i druków. Doktor sztuki w zakresie sztuk plastycznych i konserwacji dzieł sztuki uzyskany na Akademii Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi. W „Tkackim łódzkim” odpowiedzialny za merytoryczną konsultację tekstów dotyczących technologii tkactwa.
 
 {% zespol "v1565551902/tkackie/piotr-swiderek.jpg", "Piotr Świderek" %}
 
@@ -24,6 +25,6 @@ title: Zespół
 
 **Maciej Kronenberg** – prezes REGIO; łodzianin; doktor nauk o ziemi w dyscyplinie geografia; regionalista; autor książek o Łodzi i regionie, m.in. „500 zagadek o Łodzi i regionie łódzkim”, „[Przewodnik po filmowej Łodzi](http://regiocentrum.pl/publikacje/ksiazki/przewodnik-po-filmowej-lodzi/)”, „[Stawkowy przewodnik filmowy](http://regiocentrum.pl/publikacje/ksiazki/stawkowy-przewodnik-filmowy/)”. Pasjonuje go turystyka dziedzictwa przemysłowego i filmowego. Licencjonowany przewodnik po Łodzi i województwie łódzkim. W ramach projektu zajmuje się m.in. działaniami promocyjnymi.
 
----
+***
 
 ← [Realizator i partnerzy](/realizator-i-partnerzy/#main)
