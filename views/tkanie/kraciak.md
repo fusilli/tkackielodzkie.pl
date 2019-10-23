@@ -6,7 +6,7 @@ tags: Tkanie
 ---
 Z racji na to, że kraciak podobnie jak pasiaki tkany był splotem płóciennym, w dwie nicielnice, sam proces tkania nie różni się od tego dotyczącego tkanin pasiastych.
 
-Jeśli już mielibyśmy wskazać różnicę, to mogłaby ona polegać na nieco rzadszym zmienianiu wątku. O ile w przypadku pasiaków kolor wątku, zmieniał się dość często (wraz ze zmianą koloru pasów), o tyle w kraciakach tkano przede wszystkim jednolitym kolorem dna, który raz na jakiś czas zmieniał się na prążki innego koloru. Tu również, podobnie jak przy snuciu, istotne było obliczenie, ile rzędów wątku potrzebujemy, by otrzymać paski o tej samej szerokości, w dość regularnych odstępach.
+Jeśli już mielibyśmy wskazać różnicę, to mogłaby ona polegać na nieco rzadszym zmienianiu wątku. O ile w przypadku pasiaków kolor wątku, zmieniał się dość często (wraz ze zmianą koloru pasów), a kolor osnowy był jednolity; o tyle w kraciakach osnowę usnutą w rzadsze precyzyjnie rozmieszczone pasy tkano przede wszystkim jednolitym kolorem wątku, który raz na jakiś czas zmieniano tworząc prążki innego koloru. Tu również, podobnie jak przy snuciu, istotne było obliczenie, ile rzędów kolorowego wątku potrzebujemy, by otrzymać paski o tej samej szerokości, w dość regularnych odstępach.
 
 {% foto "v1566566907/tkackie/IMG_1078_obsphz.jpg_", "_Tkanie kraciaka" %}
 
