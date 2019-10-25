@@ -8,17 +8,13 @@ Określenie „tkaniny wielonicielnicowe” jest dość pojemne. Składają się
 
 {% foto "v1572035455/tkackie/Tkanina_wielonicielnicowa_Fot2_k6ydrs.jpg", "Tkanina z opoczyńskiego, z wzorem kostkowym" %}
 
-Fot.2, podpis, Tkanina z opoczyńskiego, z wzorem kostkowym\]
-
-Stworzenie tkaniny na wielu nicielnicach wymagało od twórczyni znacznie większych umiejętności w zakresie rozczytywania wzoru, snucia i samego tkania. Zastosowanie wielu nicielnic dawało znacznie więcej możliwości uzyskania przesmyku tkackiego, co z kolei umożliwiało tworzenie bardziej skomplikowanych splotów i wzorów. Różne przewlekanie przez nicielnice połączone z barwnym snuciem (partie osnowy w innych kolorach) dawały nieskończony wachlarz możliwości tworzenia tkanin. Od tkanin jednobarwnych ze strukturalnymi splotami, skośnymi, kostkowymi, łamanymi, zastawnymi, po wielobarwne kraty. Największą grupę stosowanych splotów stanowią pochodne splotu płóciennego i skośnego. Dzięki zastosowaniu 4 lub  więcej nicielnic splot płócienny mógł zostać wzmocniony o pokrycia osnowowe, uzyskiwano w ten sposób sploty rypsowe i panamowe. Sploty skośne natomiast można było różnorako przewlekać przez nicielnice, łamać, przesuwać. Powstawały w ten sposób wzory romboidalne, jodełki, zygzaki, diamenty. Tkanie natomiast różnymi sekwencjami pedałów jeszcze dodatkowo powiększało możliwości wzornicze krosna.
+Stworzenie tkaniny na wielu nicielnicach wymagało od twórczyni znacznie większych umiejętności w zakresie rozczytywania wzoru, snucia i samego tkania. Zastosowanie wielu nicielnic dawało znacznie więcej możliwości uzyskania przesmyku tkackiego, co z kolei umożliwiało tworzenie bardziej skomplikowanych splotów i wzorów. Różne przewlekanie przez nicielnice połączone z barwnym snuciem (partie osnowy w innych kolorach) dawały nieskończony wachlarz możliwości tworzenia tkanin. Od tkanin jednobarwnych ze strukturalnymi splotami, skośnymi, kostkowymi, łamanymi, zastawnymi, po wielobarwne kraty. Największą grupę stosowanych splotów stanowią pochodne splotu płóciennego i skośnego. Dzięki zastosowaniu 4 lub więcej nicielnic splot płócienny mógł zostać wzmocniony o pokrycia osnowowe, uzyskiwano w ten sposób sploty rypsowe i panamowe. Sploty skośne natomiast można było różnorako przewlekać przez nicielnice, łamać, przesuwać. Powstawały w ten sposób wzory romboidalne, jodełki, zygzaki, diamenty. Tkanie natomiast różnymi sekwencjami pedałów jeszcze dodatkowo powiększało możliwości wzornicze krosna.
 
 Jak pisze Krystyna Kondratiukowa – w regionie opoczyńskim, wraz ze zwiększeniem ilości nicielnic pojawił się na tkaninach splot rządkowy (skośny), a w materiałach na kaftanach powstają dekoracyjne _bącki_ i _pęcełki_, uzyskane dzięki ciągłej zmianie kolorowego wątku, na przemian grubego i cienkiego \[12\].
 
-\[fot.3, podpis: Kaftan z rawsko-opoczyńskiego, strojeludowe.net\]
-
 Szczególnie kunsztownym przykładem tkanin wielonicielnicowych są te z zastosowaniem tzw. wzorów kostkowych, przyjmujące postać różnego rodzaju prostokątów i kwadratów, wyróżniających się fakturą (a często też kolorem) z jednolitego tła.
 
-\[fot. 4, podpis: Tkanina pościelowa z wzorem kostkowym, opoczyńskie
+{% foto "v1572036171/tkackie/Tkanina_wielonicielnicowa_fot_4_pmcjxl.jpg", "Tkanina pościelowa z wzorem kostkowym, opoczyńskie" %}
 
 Fot. 5, podpis: Tkanina dekoracyjna z wzorem kostkowym, opoczyńskie\]
 
