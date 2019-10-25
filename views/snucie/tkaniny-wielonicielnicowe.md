@@ -31,6 +31,8 @@ Jak zatem osnuć krosno na tkaninę wielonicielnicową? Nasza tkaczka, mając do
 
 Podobna zasada obowiązuje przy przekładaniu nici przez nicielnice. W pierwszą i drugą trafiają naprzemiennie nici ciemne – parzysta w jedną, nieparzysta w drugą nicielnicę. Z kolei w trzecią i czwartą nicielnicę nawlekamy zgodnie z wzorem nici jasne lub jasne i ciemne. Szczegółowy opis tej części procesu tkackiego znajduje się w filmie.
 
+{% foto "v1572037112/tkackie/Tkanina_wielonicielnicowa_snucie_fot_7_uaj3u5.jpg", "Tkanina wielonicielnicowa – wzornik w filmie" %}
+
 \[fot 7, podpis: Tkanina wielonicielnicowa – wzornik w filmie, fot 8 – Fragment wzoru wybrany do tkania\].
 
 ***
