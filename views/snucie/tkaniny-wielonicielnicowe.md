@@ -6,7 +6,7 @@ tags: Snucie
 ---
 Określenie „tkaniny wielonicielnicowe” jest dość pojemne. Składają się na nie bowiem wszystkie te rodzaje tkanin, które powstają przy użyciu większej liczby nicielnic niż dwie. W województwie łódzkim oznaczało to zwykle cztery lub sześć, rzadziej zaś osiem nicielnic. Tkaniny z ich wykorzystaniem powstawały w regionach rawsko-opoczyńskim oraz nieodległym od niego piotrkowskim \[18\]. O ile w tym ostatnim wzory tworzone z użyciem większej ilości nicielnic stanowiły najczęściej dodatkowy ozdobny element pasiaków, o tyle w rawsko-opoczyńskim tworzyły zazwyczaj rozbudowane pasowe układy wzdłuż całej tkaniny.
 
-\[fot.1, podpis: Zapaska z piotrkowskiego z motywem kostkowym
+{% foto "v1572035455/tkackie/Tkanina_wielonicielnicowa_Fot2_k6ydrs.jpg", "Tkanina z opoczyńskiego, z wzorem kostkowym" %}
 
 Fot.2, podpis, Tkanina z opoczyńskiego, z wzorem kostkowym\]
 
@@ -26,13 +26,12 @@ Ponieważ wzór w tych tkaninach tworzony był dzięki przenikającym się, dwó
 
 \[fot.6, podpis: Nici nasnute na tkaninę wielonicielnicową\]
 
-Przy okazji snucia warto od razu wypowiedzieć dwie rady, które mogą uczynić życie początkującej tkaczki znacznie prostszym, a które w przypadku naszej eksperymentalnej tkaniny wielonicielnicowej „przerobiliśmy” na własnej skórze: 
+Przy okazji snucia warto od razu wypowiedzieć dwie rady, które mogą uczynić życie początkującej tkaczki znacznie prostszym, a które w przypadku naszej eksperymentalnej tkaniny wielonicielnicowej „przerobiliśmy” na własnej skórze:
 
-1) Zastosowanie lnianych nici w osnowie powoduje, że ta szybko się mechaci, a nitki zaczynają zahaczać się jedne o drugie. Aby uniknąć tej frustracji, warto skorzystać z patentu podpatrzonego przez Krystynę Kondratiukową: „Żeby osnowa nie kosmaciła się przy tkaniu (aby nie było _mechu_), krochmali się ją na krośnie za pomocą szczotki rozwodnionym klejem stolarskim lub papką z pszennej mąki” \[12\].
+1. Zastosowanie lnianych nici w osnowie powoduje, że ta szybko się mechaci, a nitki zaczynają zahaczać się jedne o drugie. Aby uniknąć tej frustracji, warto skorzystać z patentu podpatrzonego przez Krystynę Kondratiukową: „Żeby osnowa nie kosmaciła się przy tkaniu (aby nie było _mechu_), krochmali się ją na krośnie za pomocą szczotki rozwodnionym klejem stolarskim lub papką z pszennej mąki” \[12\].
+2. Gęsto ułożone nitki osnowy wymagały bardzo gęstej płochy (o ciasno ułożonych przesmykach). Planując ten rodzaj tkaniny, warto się o taką postarać. My korzystaliśmy przy tworzeniu tkaniny z najgęstszej, jaką mieliśmy, a i tak nie udało nam się uniknąć zbyt dużego jej rozluźnienia, czyniącego wzór znacznie mniej widocznym.
 
-2) Gęsto ułożone nitki osnowy wymagały bardzo gęstej płochy (o ciasno ułożonych przesmykach). Planując ten rodzaj tkaniny, warto się o taką postarać. My korzystaliśmy przy tworzeniu tkaniny z najgęstszej, jaką mieliśmy, a i tak nie udało nam się uniknąć zbyt dużego jej rozluźnienia, czyniącego wzór znacznie mniej widocznym.
-
-Jak zatem osnuć krosno na tkaninę wielonicielnicową? Nasza tkaczka, mając do dyspozycji 4 nicielnice, zdecydowała, że na dwóch pierwszych będzie tworzyło się „tło”, tkane zwykłym splotem płóciennym na cieńszej nici, natomiast na dwóch kolejnych nasnute zostaną grubsze nitki tworzące wzór. Zanim jednak dojdzie do przekładania przez nicielnice, trzeba nici ułożyć na snowadle w odpowiedniej kolejności. We fragmentach tkaniny, gdzie występuje samo tło, nasnuwamy odpowiednią liczbę nici w kolorze tła (tu dla ułatwienia nazywamy je ciemnymi), a w miejscu, gdzie pojawia się wzór – snujemy albo same nitki wzoru („jasne”) albo na przemian nitki jasne i ciemne (w zależności od tego, jak gotowy wzór ma wyglądać). 
+Jak zatem osnuć krosno na tkaninę wielonicielnicową? Nasza tkaczka, mając do dyspozycji 4 nicielnice, zdecydowała, że na dwóch pierwszych będzie tworzyło się „tło”, tkane zwykłym splotem płóciennym na cieńszej nici, natomiast na dwóch kolejnych nasnute zostaną grubsze nitki tworzące wzór. Zanim jednak dojdzie do przekładania przez nicielnice, trzeba nici ułożyć na snowadle w odpowiedniej kolejności. We fragmentach tkaniny, gdzie występuje samo tło, nasnuwamy odpowiednią liczbę nici w kolorze tła (tu dla ułatwienia nazywamy je ciemnymi), a w miejscu, gdzie pojawia się wzór – snujemy albo same nitki wzoru („jasne”) albo na przemian nitki jasne i ciemne (w zależności od tego, jak gotowy wzór ma wyglądać).
 
 Podobna zasada obowiązuje przy przekładaniu nici przez nicielnice. W pierwszą i drugą trafiają naprzemiennie nici ciemne – parzysta w jedną, nieparzysta w drugą nicielnicę. Z kolei w trzecią i czwartą nicielnicę nawlekamy zgodnie z wzorem nici jasne lub jasne i ciemne. Szczegółowy opis tej części procesu tkackiego znajduje się w filmie.
 
