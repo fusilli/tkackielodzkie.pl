@@ -20,7 +20,7 @@ Szczególnie kunsztownym przykładem tkanin wielonicielnicowych są te z zastoso
 
 Ponieważ wzór w tych tkaninach tworzony był dzięki przenikającym się, dwóm lub trzem układom osnowy, snucie stanowiło niezwykle ważny element całego procesu tkackiego. Każda źle osnuta nitka oznaczała pomyłkę we wzorze. A że wzór ten był stosowany zazwyczaj w dość szerokich tkaninach pościelowych (obrusy, prześcieradła, kapy na łóżko) – snucie zajmowało naprawdę wiele czasu. Działo się tak tym bardziej, że wzór był zwykle tworzony grubszym wełnianym lub bawełnianym wątkiem, na lnianym tle, o gęstym splocie, dającym nieco tylko bardziej zgrzebne płótno niż to stosowane przy koszulach. W efekcie, na niewielkim nawet poziomym odcinku osnowy znajdowało się bardzo dużo nici, czyniąc snucie prawdziwie mrówczą pracą.
 
-\[fot.6, podpis: Nici nasnute na tkaninę wielonicielnicową\]
+{% foto "v1572036809/tkackie/Tkanina_wielonicielnicowa_fot_6_ougvix.jpg", "Nici nasnute na tkaninę wielonicielnicową" %}
 
 Przy okazji snucia warto od razu wypowiedzieć dwie rady, które mogą uczynić życie początkującej tkaczki znacznie prostszym, a które w przypadku naszej eksperymentalnej tkaniny wielonicielnicowej „przerobiliśmy” na własnej skórze:
 
