@@ -16,7 +16,7 @@ Ten ostatni mógł być tworzony już po wytkaniu, przez przeciągnięcie iglic�
 
 W przypadku wzorów kostkowych wątek składał się z tej samej nici, co tło – najczęściej była to jednolita nić lniana, znacznie cieńsza niż nici wzoru. Takie zróżnicowanie faktur nici tła i wzoru pozwalało na uczynienie wątku bardziej widocznym na jednolitym płóciennym tle. Takie wzory stosowano w opoczyńskim przede wszystkim na obrusy i pościel – prześcieradła, poszewki na poduszki, które miały pełnić również funkcję dekoracyjną. Wówczas w tle wykorzystywano ciemniejszą nić lnianą, a we wzorze grubszą, jasną wełnę lub bawełnę.
 
-\[fot.3, podpis: Tkanina pościelowa/dekoracyjna z opoczyńskiego\]
+{% foto "v1572240416/tkackie/Tkanina_wielonicielnicowa_Tkanie_fot_3_eduwxm.jpg", "Tkanina pościelowa z opoczyńskiego" %}
 
 Sam wzór wykorzystywany był także przy ozdobnych kapach na łóżko (dywanach), gdzie jednak tło było zwykle ciemne, a powstający wzór wielokolorowy, w układzie pasowym. W zależności od przeznaczenia tkaniny, różny był też stopień wysycenia jej wzorem. W tkaninach pościelowych zdobione były zwykle brzegi lub widoczne części, natomiast w kapach na łóżko wzór występował właściwie na całej powierzchni tkaniny. Często uzupełniano go również o dorabiane na szydełku ozdobne ząbki.
 
