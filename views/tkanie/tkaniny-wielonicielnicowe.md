@@ -30,8 +30,6 @@ W piotrkowskim motyw kostkowy występował głównie jako element stroju (a nie 
 
 Każdy rodzaj tkaniny wielonicielnicowej (i każdy wzór w danej kategorii tkanin) wymagał nieco innej technologii snucia i tkania. W filmie próbujemy zrekonstruować, jak mogło to wyglądać dla tkanin obrusowych i pościelowych z opoczyńskiego, przy zastosowaniu motywu kostkowego.
 
-\[tu będzie film – jak już powstanie\]
-
 ***
 
 ↑ [Tkanie](/tkanie/#main) | ← [Kraciak](/tkanie/kraciak/#main)
