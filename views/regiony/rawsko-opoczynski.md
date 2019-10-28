@@ -32,6 +32,8 @@ W rawsko-opoczyńskim znane są również wzory w kratę posiadające nie tylko 
 
 Bardziej skomplikowane wzory pojawiają się na omawianym obszarze pod koniec XIX wieku – są to wzory kostkowe uzyskiwane dzięki zastosowaniu czterech nicielnic. Wzory te umieszczane były na kilimkach, płachtach, ozdobnych poszewkach. Większą liczbę nicielnic stosowano rzadko, gdyż tylko niewielka liczba kobiet potrafiła tkać skomplikowanymi splotami rządkowymi i ukośnymi.
 
+{% foto "v1572242750/tkackie/fot_opoczynskie_uzup_p28qs3.jpg", "Tkanina z wzorem kostkowym, Muzeum Archeologiczne i Etnograficzne w Łodzi" %}
+
 Urozmaicenie wyglądu tkanin uzyskiwano nie tylko dzięki zwiększaniu liczby nicielnic, ale także dzięki technice tkania przy pomocy deseczki tkackiej. Wzór w „deskę” był najczęściej stosowany w pasiakach wełnianych jako powtarzający się motyw kostkowy. Uzyskany wzór nazywany był „koziołkami”, „żmjkami” lub „kuloskami”. Wzór ten jest silnie związany z rawsko-opoczyńskim \[[7](/bibliografia/#main)\]. Wzory kostkowe uzupełniały wzory pasiaste na zapaskach, a także na tkaninach dekoracyjnych zwanych dywanami lub kilimami (wbrew dzisiejszemu rozumieniu służyły one do nakrywania łóżek). Bywały także stosowane na płachtach (powłoczkach na poduszki), prześcieradłach (nakryciach na łózko), oraz ubiorze – letnich sukniach, gorsetach, fartuchach \[[2](/bibliografia/#main)\].
 
 ## Kolorystyka
