@@ -22,7 +22,7 @@ Sam wzór wykorzystywany był także przy ozdobnych kapach na łóżko (dywanach
 
 {% foto "v1572240646/tkackie/Tkanina_wielonicielnicowa_Tkanie_fot_4_gf3fp4.jpg", "Ozdobne zakończenie tkaniny pościelowej" %}
 
-\[fot. 4 i 5, podpis: Przykłady Ozdobne zakończenie tkaniny pościelowej\]
+{% foto "v1572240850/tkackie/Tkanina_wielonicielnicowa_Tkanie_fot_5_joallz.jpg", "Zakończenie tkaniny dekoracyjnej" %}
 
 Tkanie w cztery nicielnice wykorzystywano również przy odzieży, choć wzory wyglądały wówczas nieco inaczej niż przy pościeli. Na cienkiej, czarnej osnowie lnianej tkano różnobarwnym wątkiem wełnianym, podwójnym lub przerzucanym po 4-6 nici razem, co sprawiało, że tworzył wypukłe łańcuszki i kosteczki (tzw. pacuski). Wykorzystywano to rozwiązanie głównie przy kaftanach męskich i kobiecych. \[12\]
 
