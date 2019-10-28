@@ -20,7 +20,9 @@ W przypadku wzorów kostkowych wątek składał się z tej samej nici, co tło �
 
 Sam wzór wykorzystywany był także przy ozdobnych kapach na łóżko (dywanach), gdzie jednak tło było zwykle ciemne, a powstający wzór wielokolorowy, w układzie pasowym. W zależności od przeznaczenia tkaniny, różny był też stopień wysycenia jej wzorem. W tkaninach pościelowych zdobione były zwykle brzegi lub widoczne części, natomiast w kapach na łóżko wzór występował właściwie na całej powierzchni tkaniny. Często uzupełniano go również o dorabiane na szydełku ozdobne ząbki.
 
-\[fot. 4 i 5, podpis: Przykłady ozdobnych zakończeń tkanin\]
+{% foto "v1572240646/tkackie/Tkanina_wielonicielnicowa_Tkanie_fot_4_gf3fp4.jpg", "Ozdobne zakończenie tkaniny pościelowej" %}
+
+\[fot. 4 i 5, podpis: Przykłady Ozdobne zakończenie tkaniny pościelowej\]
 
 Tkanie w cztery nicielnice wykorzystywano również przy odzieży, choć wzory wyglądały wówczas nieco inaczej niż przy pościeli. Na cienkiej, czarnej osnowie lnianej tkano różnobarwnym wątkiem wełnianym, podwójnym lub przerzucanym po 4-6 nici razem, co sprawiało, że tworzył wypukłe łańcuszki i kosteczki (tzw. pacuski). Wykorzystywano to rozwiązanie głównie przy kaftanach męskich i kobiecych. \[12\]
 
