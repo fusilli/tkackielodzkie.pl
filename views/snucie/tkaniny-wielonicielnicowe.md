@@ -35,7 +35,7 @@ Podobna zasada obowiązuje przy przekładaniu nici przez nicielnice. W pierwszą
 
 {% foto "v1572037310/tkackie/Tkanina_wielonicielnicowa_snucie_fot_8_gwsbgg.jpg", "Fragment wzoru wybrany do tkania" %}
 
-{% youtube "uiASy28-7RU&t" %}
+{% youtube "uiASy28-7RU&t=42s" %}
 
 ***
 
