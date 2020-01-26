@@ -19,7 +19,7 @@ title: Zespół
 
 {% zespol "v1565551902/tkackie/piotr-swiderek.jpg", "Piotr Świderek" %}
 
-**Piotr Świderek** – absolwent etnologii na Uniwersytecie Łódzkim. Zawodowo od kilkunastu lat zajmuje się tworzeniem [stron internetowych](https://static.solutions) i składem DTP, najczęściej dla organizacji pozarządowych i podmiotów ekonomii społecznej. Entuzjasta metodologii JAMstack, umożliwiającej tworzenie szybkich, bezpiecznych, niezawodnych i niedrogich w utrzymaniu stron www. Czytuje komiksy, grywa w koszykówkę i pokonuje wielokilometrowe dystanse na specjalnie przystosowanej do tego deskorolce. Czasami wymyśla [śmieszne rysunki](http://rysunki.me).
+**Piotr Świderek** – absolwent etnologii na Uniwersytecie Łódzkim. Zawodowo od kilkunastu lat zajmuje się tworzeniem [stron internetowych i składem DTP](https://fusil.li), najczęściej dla organizacji pozarządowych i podmiotów ekonomii społecznej. Entuzjasta metodologii JAMstack, umożliwiającej tworzenie szybkich, bezpiecznych, niezawodnych i niedrogich w utrzymaniu stron www. Czytuje komiksy, grywa w koszykówkę i pokonuje wielokilometrowe dystanse na specjalnie przystosowanej do tego deskorolce. Czasami wymyśla [śmieszne rysunki](http://rysunki.me).
 
 {% zespol "v1565525789/tkackie/maciej-kronenberg.jpg", "Maciej Kronenberg" %}
 
